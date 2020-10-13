@@ -1,0 +1,1839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+		<!--	Grupo 34	-->
+<!--	Alejandro Gómez González	-->
+<!--	Iago Muñoz Varela 			-->
+<!--	Jesús Pascual Blanco 		-->
+		<!--				-->
+
+
+
+
+	
+		
+		
+<!-- 17)¿Cómo puedo justificar mi asistencia a las actividades de evaluación y a sus revisiones? -->
+	<!-- Ingenieria informatica Ourense -->
+		<!-- //asistencia -->
+			<category>
+				<pattern>^ justificar ^ asistencia ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ asistencia ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ asistencia ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ asistencia ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ asistencia ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ asistencia ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ asistencia ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ asistencia ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ asistencia ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ asistencia ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //evaluacion -->
+			<category>
+				<pattern>^ justificar ^ evaluacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ evaluacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ evaluacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ evaluacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ evaluacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ evaluacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ evaluacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ evaluacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ evaluacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ evaluacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //revision-->
+			<category>
+				<pattern>^ justificar ^ revision ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ revision ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ revision ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ revision ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ revision ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ revision ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ revision ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ revision ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ revision ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ revision ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //revisiones -->
+			<category>
+				<pattern>^ justificar ^ revisiones ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ revisiones ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ revisiones ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ revisiones ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ revisiones ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ revisiones ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ revisiones ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ revisiones ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ revisiones ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ revisiones ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+	<!-- Ingenieria informatica UVIGO -->
+		<!-- //asistencia -->
+			<category>
+				<pattern>^ justificar ^ asistencia ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ asistencia ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ asistencia ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ asistencia ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ asistencia ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ asistencia ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ asistencia ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ asistencia ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ asistencia ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ asistencia ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //evaluacion -->
+			<category>
+				<pattern>^ justificar ^ evaluacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ evaluacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ evaluacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ evaluacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ evaluacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ evaluacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ evaluacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ evaluacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ evaluacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ evaluacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //revision-->
+			<category>
+				<pattern>^ justificar ^ revision ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ revision ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ revision ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ revision ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ revision ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ revision ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ revision ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ revision ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ revision ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ revision ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //revisiones -->
+			<category>
+				<pattern>^ justificar ^ revisiones ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ revisiones ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ revisiones ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ revisiones ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ revisiones ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ revisiones ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ revisiones ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ revisiones ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ revisiones ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ revisiones ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+	<!-- Ingenieria informatica Universidad de Vigo -->
+		<!-- //asistencia -->
+			<category>
+				<pattern>^ justificar ^ asistencia ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ asistencia ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ asistencia ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ asistencia ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ asistencia ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ asistencia ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ asistencia ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ asistencia ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ asistencia ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ asistencia ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //evaluacion -->
+			<category>
+				<pattern>^ justificar ^ evaluacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ evaluacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ evaluacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ evaluacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ evaluacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ evaluacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ evaluacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ evaluacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ evaluacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ evaluacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //revision-->
+			<category>
+				<pattern>^ justificar ^ revision ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ revision ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ revision ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ revision ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ revision ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ revision ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ revision ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ revision ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ revision ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ revision ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //revisiones -->
+			<category>
+				<pattern>^ justificar ^ revisiones ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ revisiones ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ revisiones ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ revisiones ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ revisiones ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ revisiones ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ revisiones ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ revisiones ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ revisiones ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ revisiones ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+	<!-- Escola Superior de Enxeñeria Informatica -->
+		<!-- //asistencia -->
+			<category>
+				<pattern>^ justificar ^ asistencia ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ asistencia ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ asistencia ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ asistencia ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ asistencia ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ asistencia ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ asistencia ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ asistencia ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ asistencia ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ asistencia ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //evaluacion -->
+			<category>
+				<pattern>^ justificar ^ evaluacion ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ evaluacion ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ evaluacion ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ evaluacion ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ evaluacion ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ evaluacion ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ evaluacion ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ evaluacion ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ evaluacion ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ evaluacion ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //revision-->
+			<category>
+				<pattern>^ justificar ^ revision ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ revision ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ revision ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ revision ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ revision ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ revision ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ revision ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ revision ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ revision ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ revision ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //revisiones -->
+			<category>
+				<pattern>^ justificar ^ revisiones ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ revisiones ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ revisiones ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ revisiones ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ revisiones ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ revisiones ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ revisiones ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ revisiones ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ revisiones ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ revisiones ^ Ingenieria informatica ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+	<!-- Ingenieria informatica -->
+		<!-- //asistencia -->
+			<category>
+				<pattern>^ justificar ^ asistencia ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ asistencia ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ asistencia ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ asistencia ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ asistencia ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ asistencia ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ asistencia ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ asistencia ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ asistencia ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ asistencia ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //evaluacion -->
+			<category>
+				<pattern>^ justificar ^ evaluacion ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ evaluacion ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ evaluacion ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ evaluacion ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ evaluacion ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ evaluacion ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ evaluacion ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ evaluacion ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ evaluacion ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ evaluacion ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //revision-->
+			<category>
+				<pattern>^ justificar ^ revision ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ revision ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ revision ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ revision ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ revision ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ revision ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ revision ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ revision ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ revision ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ revision ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //revisiones -->
+			<category>
+				<pattern>^ justificar ^ revisiones ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ revisiones ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ revisiones ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ revisiones ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ revisiones ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ revisiones ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ revisiones ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ revisiones ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ revisiones ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ revisiones ^ Ingenieria informatica</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+	<!-- Universidad de Vigo -->
+		<!-- //asistencia -->
+			<category>
+				<pattern>^ justificar ^ asistencia ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ asistencia ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ asistencia ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ asistencia ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ asistencia ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ asistencia ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ asistencia ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ asistencia ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ asistencia ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ asistencia ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //evaluacion -->
+			<category>
+				<pattern>^ justificar ^ evaluacion ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ evaluacion ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ evaluacion ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ evaluacion ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ evaluacion ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ evaluacion ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ evaluacion ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ evaluacion ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ evaluacion ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ evaluacion ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //revision-->
+			<category>
+				<pattern>^ justificar ^ revision ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ revision ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ revision ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ revision ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ revision ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ revision ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ revision ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ revision ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ revision ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ revision ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //revisiones -->
+			<category>
+				<pattern>^ justificar ^ revisiones ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ revisiones ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ revisiones ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ revisiones ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ revisiones ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ revisiones ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ revisiones ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ revisiones ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ revisiones ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ revisiones ^ Universidad de Vigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+	<!-- Universidad -->
+		<!-- //asistencia -->
+			<category>
+				<pattern>^ justificar ^ asistencia ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ asistencia ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ asistencia ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ asistencia ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ asistencia ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ asistencia ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ asistencia ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ asistencia ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ asistencia ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ asistencia ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //evaluacion -->
+			<category>
+				<pattern>^ justificar ^ evaluacion ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ evaluacion ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ evaluacion ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ evaluacion ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ evaluacion ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ evaluacion ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ evaluacion ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ evaluacion ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ evaluacion ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ evaluacion ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //revision-->
+			<category>
+				<pattern>^ justificar ^ revision ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ revision ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ revision ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ revision ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ revision ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ revision ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ revision ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ revision ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ revision ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ revision ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //revisiones -->
+			<category>
+				<pattern>^ justificar ^ revisiones ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ revisiones ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ revisiones ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ revisiones ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ revisiones ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ revisiones ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ revisiones ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ revisiones ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ revisiones ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ revisiones ^ Universidad</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+	<!-- Centro -->
+		<!-- //asistencia -->
+			<category>
+				<pattern>^ justificar ^ asistencia ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ asistencia ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ asistencia ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ asistencia ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ asistencia ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ asistencia ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ asistencia ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ asistencia ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ asistencia ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ asistencia ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //evaluacion -->
+			<category>
+				<pattern>^ justificar ^ evaluacion ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ evaluacion ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ evaluacion ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ evaluacion ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ evaluacion ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ evaluacion ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ evaluacion ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ evaluacion ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ evaluacion ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ evaluacion ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //revision-->
+			<category>
+				<pattern>^ justificar ^ revision ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ revision ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ revision ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ revision ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ revision ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ revision ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ revision ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ revision ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ revision ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ revision ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //revisiones -->
+			<category>
+				<pattern>^ justificar ^ revisiones ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ revisiones ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ revisiones ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ revisiones ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ revisiones ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ revisiones ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ revisiones ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ revisiones ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ revisiones ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ revisiones ^ Centro</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+	<!-- Uvigo -->
+		<!-- //asistencia -->
+			<category>
+				<pattern>^ justificar ^ asistencia ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ asistencia ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ asistencia ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ asistencia ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ asistencia ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ asistencia ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ asistencia ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ asistencia ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ asistencia ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ asistencia ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //evaluacion -->
+			<category>
+				<pattern>^ justificar ^ evaluacion ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ evaluacion ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ evaluacion ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ evaluacion ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ evaluacion ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ evaluacion ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ evaluacion ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ evaluacion ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ evaluacion ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ evaluacion ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //revision-->
+			<category>
+				<pattern>^ justificar ^ revision ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ revision ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ revision ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ revision ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ revision ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ revision ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ revision ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ revision ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ revision ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ revision ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //revisiones -->
+			<category>
+				<pattern>^ justificar ^ revisiones ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ revisiones ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ revisiones ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ revisiones ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ revisiones ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ revisiones ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ revisiones ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ revisiones ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ revisiones ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ revisiones ^ Uvigo</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+	<!-- ESEI -->
+		<!-- //asistencia -->
+			<category>
+				<pattern>^ justificar ^ asistencia ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ asistencia ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ asistencia ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ asistencia ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ asistencia ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ asistencia ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ asistencia ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ asistencia ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ asistencia ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ asistencia ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //evaluacion -->
+			<category>
+				<pattern>^ justificar ^ evaluacion ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ evaluacion ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ evaluacion ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ evaluacion ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ evaluacion ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ evaluacion ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ evaluacion ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ evaluacion ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ evaluacion ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ evaluacion ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //revision-->
+			<category>
+				<pattern>^ justificar ^ revision ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ revision ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ revision ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ revision ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ revision ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ revision ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ revision ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ revision ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ revision ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ revision ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //revisiones -->
+			<category>
+				<pattern>^ justificar ^ revisiones ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ revisiones ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ revisiones ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ revisiones ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ revisiones ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ revisiones ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ revisiones ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ revisiones ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ revisiones ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ revisiones ^ ESEI</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+	<!-- //asistencia | evaluacion  | revision | revisiones -->
+		<!-- //asistencia -->
+			<category>
+				<pattern>^ justificar ^ asistencia</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ asistencia</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ asistencia</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ asistencia</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ asistencia</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ asistencia</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ asistencia</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ asistencia</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ asistencia</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ asistencia</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //evaluacion -->
+			<category>
+				<pattern>^ justificar ^ evaluacion</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ evaluacion</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ evaluacion</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ evaluacion</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ evaluacion</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ evaluacion</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ evaluacion</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ evaluacion</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ evaluacion</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ evaluacion</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //revision-->
+			<category>
+				<pattern>^ justificar ^ revision</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ revision</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ revision</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ revision</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ revision</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ revision</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ revision</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ revision</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ revision</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ revision</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+		<!-- //revisiones -->
+			<category>
+				<pattern>^ justificar ^ revisiones</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ justifico ^ revisiones</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demostrar ^ revisiones</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ demuestro ^ revisiones</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ probar ^ revisiones</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ pruebo ^ revisiones</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certificar ^ revisiones</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ certifico ^ revisiones</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acreditar ^ revisiones</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ acredito ^ revisiones</pattern>
+				<template><srai>P17xOK</srai></template>
+			</category>
+	<!-- //Respuestas --> 
+		<category>
+			<pattern>P17xOK</pattern>
+			<template>x</template>
+		</category>
+		
+		
+		
+</aiml>

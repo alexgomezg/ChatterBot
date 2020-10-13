@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+		<!--	Grupo 34	-->
+<!--	Alejandro Gómez González	-->
+<!--	Iago Muñoz Varela 			-->
+<!--	Jesús Pascual Blanco 		-->
+		<!--				-->
+
+
+
+<!-- 8)¿En qué consiste el PAT? -->
+	<!-- //accion tutorial ^ Ingenieria informatica ^ Ourense ^ -->
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ Consiste ^ accion tutorial ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //que Es -->
+			<category>
+				<pattern>^ que es ^ accion tutorial ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Sirve -->
+			<category>
+				<pattern>^ sirve ^ accion tutorial ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Funcion -->
+			<category>
+				<pattern>^ funcion ^ accion tutorial ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Utilidad -->
+			<category>
+				<pattern>^ utilidad ^ accion tutorial ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+	<!-- //PAT ^ Ingenieria informatica ^ Ourense ^ -->
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ Consiste ^ PAT ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //que Es -->
+			<category>
+				<pattern>^ que es ^ PAT ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Sirve -->
+			<category>
+				<pattern>^ sirve ^ PAT ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Funcion -->
+			<category>
+				<pattern>^ funcion ^ PAT ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Utilidad -->
+			<category>
+				<pattern>^ utilidad ^ PAT ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+	<!-- //accion tutorial ^ Ingenieria informatica ^ UVIGO ^ -->
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ Consiste ^ accion tutorial ^ ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //que Es -->
+			<category>
+				<pattern>^ que es ^ accion tutorial ^ ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Sirve -->
+			<category>
+				<pattern>^ sirve ^ accion tutorial ^ ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Funcion -->
+			<category>
+				<pattern>^ funcion ^ accion tutorial ^ ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Utilidad -->
+			<category>
+				<pattern>^ utilidad ^ accion tutorial ^ ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+	<!-- //PAT ^ Ingenieria informatica ^ UVIGO ^ -->
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ Consiste ^ PAT ^ ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //que Es -->
+			<category>
+				<pattern>^ que es ^ PAT ^ ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Sirve -->
+			<category>
+				<pattern>^ sirve ^ PAT ^ ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Funcion -->
+			<category>
+				<pattern>^ funcion ^ PAT ^ ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Utilidad -->
+			<category>
+				<pattern>^ utilidad ^ PAT ^ ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+	<!-- //accion tutorial ^ Ingenieria informatica ^ Universidad de Vigo ^ -->
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ Consiste ^ accion tutorial ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //que Es -->
+			<category>
+				<pattern>^ que es ^ accion tutorial ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Sirve -->
+			<category>
+				<pattern>^ sirve ^ accion tutorial ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Funcion -->
+			<category>
+				<pattern>^ funcion ^ accion tutorial ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Utilidad -->
+			<category>
+				<pattern>^ utilidad ^ accion tutorial ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+	<!-- //PAT ^ Ingenieria informatica ^ Universidad de Vigo ^ -->
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ Consiste ^ PAT ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //que Es -->
+			<category>
+				<pattern>^ que es ^ PAT ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Sirve -->
+			<category>
+				<pattern>^ sirve ^ PAT ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Funcion -->
+			<category>
+				<pattern>^ funcion ^ PAT ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Utilidad -->
+			<category>
+				<pattern>^ utilidad ^ PAT ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+	<!-- //PAT ^ Escola Superior de Enxeñeria Informatica ^ -->
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ Consiste ^ PAT ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //que Es -->
+			<category>
+				<pattern>^ que es ^ PAT ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Sirve -->
+			<category>
+				<pattern>^ sirve ^ PAT ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Funcion -->
+			<category>
+				<pattern>^ funcion ^ PAT ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Utilidad -->
+			<category>
+				<pattern>^ utilidad ^ PAT ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+	<!-- //accion tutorial ^ Ingenieria informatica -->
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ Consiste ^ accion tutorial ^ Ingenieria informatica</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //que Es -->
+			<category>
+				<pattern>^ que es ^ accion tutorial ^ Ingenieria informatica</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Sirve -->
+			<category>
+				<pattern>^ sirve ^ accion tutorial ^ Ingenieria informatica</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Funcion -->
+			<category>
+				<pattern>^ funcion ^ accion tutorial ^ Ingenieria informatica</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Utilidad -->
+			<category>
+				<pattern>^ utilidad ^ accion tutorial ^ Ingenieria informatica</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+	<!-- //PAT ^ universidad -->
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ Consiste ^ PAT ^ universidad</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //que Es -->
+			<category>
+				<pattern>^ que es ^ PAT ^ universidad</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Sirve -->
+			<category>
+				<pattern>^ sirve ^ PAT ^ universidad</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Funcion -->
+			<category>
+				<pattern>^ funcion ^ PAT ^ universidad</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Utilidad -->
+			<category>
+				<pattern>^ utilidad ^ PAT ^ universidad</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+	<!-- //accion tutorial ^ universidad -->
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ Consiste ^ accion tutorial ^ universidad</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //que Es -->
+			<category>
+				<pattern>^ que es ^ accion tutorial ^ universidad</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Sirve -->
+			<category>
+				<pattern>^ sirve ^ accion tutorial ^ universidad</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Funcion -->
+			<category>
+				<pattern>^ funcion ^ accion tutorial ^ universidad</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Utilidad -->
+			<category>
+				<pattern>^ utilidad ^ accion tutorial ^ universidad</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+	<!-- //PAT ^ universidad -->
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ Consiste ^ PAT ^ universidad</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //que Es -->
+			<category>
+				<pattern>^ que es ^ PAT ^ universidad</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Sirve -->
+			<category>
+				<pattern>^ sirve ^ PAT ^ universidad</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Funcion -->
+			<category>
+				<pattern>^ funcion ^ PAT ^ universidad</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Utilidad -->
+			<category>
+				<pattern>^ utilidad ^ PAT ^ universidad</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+	<!-- //accion tutorial ^ centro -->
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ Consiste ^ accion tutorial ^ centro</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //que Es -->
+			<category>
+				<pattern>^ que es ^ accion tutorial ^ centro</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Sirve -->
+			<category>
+				<pattern>^ sirve ^ accion tutorial ^ centro</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Funcion -->
+			<category>
+				<pattern>^ funcion ^ accion tutorial ^ centro</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Utilidad -->
+			<category>
+				<pattern>^ utilidad ^ accion tutorial ^ centro</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+	<!-- //PAT ^ centro -->
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ Consiste ^ PAT ^ centro</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //que Es -->
+			<category>
+				<pattern>^ que es ^ PAT ^ centro</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Sirve -->
+			<category>
+				<pattern>^ sirve ^ PAT ^ centro</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Funcion -->
+			<category>
+				<pattern>^ funcion ^ PAT ^ centro</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Utilidad -->
+			<category>
+				<pattern>^ utilidad ^ PAT ^ centro</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+	<!-- //accion tutorial ^ ESEI -->
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ Consiste ^ accion tutorial ^ ESEI ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //que Es -->
+			<category>
+				<pattern>^ que es ^ accion tutorial ^ ESEI ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Sirve -->
+			<category>
+				<pattern>^ sirve ^ accion tutorial ^ ESEI ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Funcion -->
+			<category>
+				<pattern>^ funcion ^ accion tutorial ^ ESEI ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Utilidad -->
+			<category>
+				<pattern>^ utilidad ^ accion tutorial ^ ESEI ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+	<!-- //PAT ^ ESEI -->
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ Consiste ^ PAT ^ ESEI ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //que Es -->
+			<category>
+				<pattern>^ que es ^ PAT ^ ESEI ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Sirve -->
+			<category>
+				<pattern>^ sirve ^ PAT ^ ESEI ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Funcion -->
+			<category>
+				<pattern>^ funcion ^ PAT ^ ESEI ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Utilidad -->
+			<category>
+				<pattern>^ utilidad ^ PAT ^ ESEI ^</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+	<!-- //accion tutorial -->
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ Consiste ^ accion tutorial</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //que Es -->
+			<category>
+				<pattern>^ que es ^ accion tutorial</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Sirve -->
+			<category>
+				<pattern>^ sirve ^ accion tutorial</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Funcion -->
+			<category>
+				<pattern>^ funcion ^ accion tutorial</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Utilidad -->
+			<category>
+				<pattern>^ utilidad ^ accion tutorial</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+	<!-- //PAT -->
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ Consiste ^ PAT</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //que Es -->
+			<category>
+				<pattern>^ que es ^ PAT</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Sirve -->
+			<category>
+				<pattern>^ sirve ^ PAT</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Funcion -->
+			<category>
+				<pattern>^ funcion ^ PAT</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+		<!-- //Utilidad -->
+			<category>
+				<pattern>^ utilidad ^ PAT</pattern>
+				<template><srai>P8xOK</srai></template>
+			</category>
+	<!-- //PAT  [SIN ^]  (Salamanca, valencia...) -->
+		<!-- No tengo conocimiento sobre esa universidad -->
+	<!-- //Respuestas --> 
+		<category>
+			<pattern>P8xOK</pattern>
+			<template>x</template>
+		</category>
+</aiml>
+

@@ -1,0 +1,2099 @@
+ 
+    <?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+		<!--	Grupo 34	-->
+<!--	Alejandro Gómez González	-->
+<!--	Iago Muñoz Varela 			-->
+<!--	Jesús Pascual Blanco 		-->
+		<!--				-->
+
+
+
+<!-- 13)¿Dónde puedo consultar la oferta de prácticas en empresass?-->
+	<!-- //original-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ consultar ^ practicas ^ empresass ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+	<!-- //Ingenieria informatica Ourense-->
+		<!-- //oferta practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ oferta practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ oferta practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ oferta practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ oferta practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ oferta practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ oferta practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ oferta practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ oferta practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ oferta practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ oferta practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ oferta practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ oferta practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ oferta practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ oferta practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ oferta practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ oferta practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ oferta practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+		<!-- //practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ practicas ^ empresas ^ Ingenieria informatica Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+	<!-- //Ingenieria informatica UVIGO-->
+		<!-- //oferta practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ oferta practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ oferta practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ oferta practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ oferta practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ oferta practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ oferta practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ oferta practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ oferta practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ oferta practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ oferta practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ oferta practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ oferta practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ oferta practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ oferta practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ oferta practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ oferta practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ oferta practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+		<!-- //practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ practicas ^ empresas ^ Ingenieria informatica UVIGO ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+	<!-- //Ingenieria informatica Universidad de Vigo-->
+		<!-- //oferta practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ oferta practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ oferta practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ oferta practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ oferta practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ oferta practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ oferta practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ oferta practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ oferta practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ oferta practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ oferta practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ oferta practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ oferta practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ oferta practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ oferta practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ oferta practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ oferta practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ oferta practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+		<!-- //practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ practicas ^ empresas ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+	<!-- //Escola Superior de Enxeñeria Informatica-->
+		<!-- //oferta practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ oferta practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ oferta practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ oferta practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ oferta practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ oferta practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ oferta practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ oferta practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ oferta practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ oferta practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ oferta practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ oferta practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ oferta practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ oferta practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ oferta practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ oferta practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ oferta practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ oferta practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+		<!-- //practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ practicas ^ empresas ^ Escola Superior de Enxeñeria Informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+	<!-- //Ingenieria informatica-->
+		<!-- //oferta practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ oferta practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ oferta practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ oferta practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ oferta practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ oferta practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ oferta practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ oferta practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ oferta practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ oferta practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ oferta practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ oferta practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ oferta practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ oferta practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ oferta practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ oferta practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ oferta practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ oferta practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+		<!-- //practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ practicas ^ empresas ^ Ingenieria informatica</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+	<!-- //Universidad de Vigo-->
+		<!-- //oferta practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ oferta practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ oferta practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ oferta practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ oferta practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ oferta practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ oferta practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ oferta practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ oferta practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ oferta practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ oferta practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ oferta practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ oferta practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ oferta practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ oferta practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ oferta practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ oferta practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ oferta practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+		<!-- //practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ practicas ^ empresas ^ Universidad de Vigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+	<!-- //Universidad-->
+		<!-- //oferta practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ oferta practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ oferta practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ oferta practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ oferta practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ oferta practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ oferta practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ oferta practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ oferta practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ oferta practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ oferta practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ oferta practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ oferta practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ oferta practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ oferta practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ oferta practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ oferta practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ oferta practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+		<!-- //practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ practicas ^ empresas ^ Universidad</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+	<!-- //Centro-->
+		<!-- //oferta practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ oferta practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ oferta practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ oferta practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ oferta practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ oferta practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ oferta practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ oferta practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ oferta practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ oferta practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ oferta practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ oferta practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ oferta practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ oferta practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ oferta practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ oferta practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ oferta practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ oferta practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+		<!-- //practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ practicas ^ empresas ^ Centro</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+	<!-- //Ourense-->
+		<!-- //oferta practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ oferta practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ oferta practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ oferta practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ oferta practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ oferta practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ oferta practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ oferta practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ oferta practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ oferta practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ oferta practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ oferta practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ oferta practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ oferta practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ oferta practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ oferta practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ oferta practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ oferta practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+		<!-- //practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ practicas ^ empresas ^ Ourense ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+	<!-- //Uvigo-->
+		<!-- //oferta practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ oferta practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ oferta practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ oferta practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ oferta practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ oferta practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ oferta practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ oferta practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ oferta practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ oferta practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ oferta practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ oferta practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ oferta practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ oferta practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ oferta practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ oferta practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ oferta practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ oferta practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+		<!-- //practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ practicas ^ empresas ^ Uvigo ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+	<!-- //ESEI-->
+		<!-- //oferta practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ oferta practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ oferta practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ oferta practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ oferta practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ oferta practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ oferta practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ oferta practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ oferta practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ oferta practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ oferta practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ oferta practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ oferta practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ oferta practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ oferta practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ oferta practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ oferta practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ oferta practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+		<!-- //practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ practicas ^ empresas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+		<!-- //oferta practicas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ oferta ^ practicas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ oferta ^ practicas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ oferta ^ practicas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ oferta ^ practicas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ oferta ^ practicas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ oferta ^ practicas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ oferta ^ practicas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ oferta ^ practicas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ oferta ^ practicas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ oferta ^ practicas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ oferta ^ practicas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ oferta ^ practicas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ oferta ^ practicas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ oferta ^ practicas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ oferta ^ practicas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ oferta ^ practicas ^ ESEI ^</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ oferta ^ practicas ^ ESEI ^</pattern>
+					<template><srai>P12xOK</srai></template>
+				</category>
+	<!-- //SIN-->
+		<!-- //oferta practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ oferta practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ oferta practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ oferta practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ oferta practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ oferta practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ oferta practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ oferta practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ oferta practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ oferta practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ oferta practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ oferta practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ oferta practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ oferta practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ oferta practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ oferta practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ oferta practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ oferta practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+		<!-- //practicas empresas-->
+			<!-- //Cual -->
+				<category>
+					<pattern>^ cual ^ practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!--//Que-->
+				<category>
+					<pattern>^ que ^ practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Como -->
+				<category>
+					<pattern>^ como ^ practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Consiste -->
+				<category>
+					<pattern>^ consiste ^ practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Informar -->
+				<category>
+					<pattern>^ Informame ^ practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Informa ^ practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+			<!-- //Describir -->
+				<category>
+					<pattern>^ Describeme ^ practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Describe ^ practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Cuenta -->
+				<category>
+					<pattern>^ Cuentame ^ practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Cuenta ^ practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Habla -->
+				<category>
+					<pattern>^ Hablame ^ practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<category>
+					<pattern>^ Habla ^ practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Existe -->
+				<category>
+					<pattern>^ Existe ^ practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Hay -->
+				<category>
+					<pattern>^ Hay ^ practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Donde -->
+				<category>
+					<pattern>^ Donde ^ practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Consultar-->
+				<category>
+					<pattern>^ Consulta ^ practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+				<!-- //Ver-->
+				<category>
+					<pattern>^ Ver ^ practicas ^ empresas</pattern>
+					<template><srai>P13xOK</srai></template>
+				</category>
+		<!-- //Respuesta --> 
+		<category>
+			<pattern>P13xOK</pattern>
+			<template>x</template>
+		</category>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</aiml>

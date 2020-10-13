@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+		<!--	Grupo 34	-->
+<!--	Alejandro Gómez González	-->
+<!--	Iago Muñoz Varela 			-->
+<!--	Jesús Pascual Blanco 		-->
+		<!--				-->
+
+
+
+<!-- 5)¿Hay una cafetería en la ESEI? --> 
+	<!-- //cafeteria ^ Ingenieria informatica ^ Ourense ^ --> 
+			<category>
+				<pattern>^ Tienen ^ cafeteria ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Tienen -->
+			<category>
+				<pattern>^ Tiene ^ cafeteria ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Posee -->
+			<category>
+				<pattern>^ Posee ^ cafeteria ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ cafeteria ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Dispone -->
+			<category>
+				<pattern>^ Dispone ^ cafeteria ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+	<!-- // cafeteria ^ Ingenieria informatica ^ UVIGO ^ --> 
+		<!-- //Hay -->
+			<category>
+				<pattern>^ Tienen ^ cafeteria ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Tienen -->
+			<category>
+				<pattern>^ Tiene ^ cafeteria ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Posee -->
+			<category>
+				<pattern>^ Posee ^ cafeteria ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ cafeteria ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Dispone -->
+			<category>
+				<pattern>^ Dispone ^ cafeteria ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+	<!-- // cafeteria ^ Ingenieria informatica ^ Universidad de Vigo ^ --> 
+		<!-- //Hay -->
+			<category>
+				<pattern>^ Tienen ^ cafeteria ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Tienen -->
+			<category>
+				<pattern>^ Tiene ^ cafeteria ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Posee -->
+			<category>
+				<pattern>^ Posee ^ cafeteria ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ cafeteria ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Dispone -->
+			<category>
+				<pattern>^ Dispone ^ cafeteria ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+	<!-- // cafeteria ^ Escola Superior de Enxeñeria Informatica ^ --> 
+		<!-- //Hay -->
+			<category>
+				<pattern>^ Tienen ^ cafeteria ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Tienen -->
+			<category>
+				<pattern>^ Tiene ^ cafeteria ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Posee -->
+			<category>
+				<pattern>^ Posee ^ cafeteria ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ cafeteria ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Dispone -->
+			<category>
+				<pattern>^ Dispone ^ cafeteria ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+	<!-- //cafeteria ^ Ingenieria informatica --> 
+			<category>
+				<pattern>^ Tienen ^ cafeteria ^ Ingenieria informatica</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Tienen -->
+			<category>
+				<pattern>^ Tiene ^ cafeteria ^ Ingenieria informatica</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Posee -->
+			<category>
+				<pattern>^ Posee ^ cafeteria ^ Ingenieria informatica</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ cafeteria ^ Ingenieria informatica</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Dispone -->
+			<category>
+				<pattern>^ Dispone ^ cafeteria ^ Ingenieria informatica</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+	<!-- //cafeteria ^ universidad --> 
+			<category>
+				<pattern>^ Tienen ^ cafeteria ^ universidad</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Tienen -->
+			<category>
+				<pattern>^ Tiene ^ cafeteria ^ universidad</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Posee -->
+			<category>
+				<pattern>^ Posee ^ cafeteria ^ universidad</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ cafeteria ^ universidad</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Dispone -->
+			<category>
+				<pattern>^ Dispone ^ cafeteria ^ universidad</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+	<!-- //cafeteria ^ centro --> 
+			<category>
+				<pattern>^ Tienen ^ cafeteria ^ centro</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Tienen -->
+			<category>
+				<pattern>^ Tiene ^ cafeteria ^ centro</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Posee -->
+			<category>
+				<pattern>^ Posee ^ cafeteria ^ centro</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ cafeteria ^ centro</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Dispone -->
+			<category>
+				<pattern>^ Dispone ^ cafeteria ^ centro</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+	<!-- // cafeteria ^ ESEI --> 
+		<!-- //Hay -->
+			<category>
+				<pattern>^ Tienen ^ cafeteria ^ ESEI ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Tienen -->
+			<category>
+				<pattern>^ Tiene ^ cafeteria ^ ESEI ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Posee -->
+			<category>
+				<pattern>^ Posee ^ cafeteria ^ ESEI ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ cafeteria ^ ESEI ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Dispone -->
+			<category>
+				<pattern>^ Dispone ^ cafeteria ^ ESEI ^</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+	<!-- // cafeteria -->
+			<category>
+				<pattern>^ Tienen ^ cafeteria</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Tienen -->
+			<category>
+				<pattern>^ Tiene ^ cafeteria</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Posee -->
+			<category>
+				<pattern>^ Posee ^ cafeteria</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ cafeteria</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+		<!-- //Dispone -->
+			<category>
+				<pattern>^ Dispone ^ cafeteria</pattern>
+				<template><srai>P5xOK</srai></template>
+			</category>
+	<!-- //cafeteria  [SIN ^]  (Salamanca, valencia...) --> 
+		<!-- No tengo conocimiento sobre esa universidad -->
+	<!-- //Respuestas --> 
+		<category>
+			<pattern>P5xOK</pattern>
+			<template>x</template>
+		</category>
+
+
+
+
+
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+</aiml>
+

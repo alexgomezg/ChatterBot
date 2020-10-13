@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+		<!--	Grupo 34	-->
+<!--	Alejandro Gómez González	-->
+<!--	Iago Muñoz Varela 			-->
+<!--	Jesús Pascual Blanco 		-->
+		<!--				-->
+
+
+
+<!-- 6)¿Dónde se encuentra la Secretaría de la ESEI? -->
+	<!-- //secretaria ^ Ingenieria informatica ^ Ourense ^ -->
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ Secretaria ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ Secretaria ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ Secretaria ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+	<!-- //Secretaria ^ Ingenieria informatica ^ UVIGO ^ -->
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ Secretaria ^ ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ Secretaria ^ ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ Secretaria ^ ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+	<!-- //Secretaria ^ Ingenieria informatica ^ Universidad de Vigo ^ -->
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ Secretaria ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ Secretaria ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ Secretaria ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+	<!-- //Secretaria ^ Escola Superior de Enxeñeria Informatica ^ -->
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ Secretaria ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ Secretaria ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ Secretaria ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+	<!-- //secretaria ^ Ingenieria informatica -->
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ Secretaria ^ Ingenieria informatica</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ Secretaria ^ Ingenieria informatica</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ Secretaria ^ Ingenieria informatica</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+	<!-- //secretaria ^ universidad -->
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ Secretaria ^ universidad</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ Secretaria ^ universidad</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ Secretaria ^ universidad</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+	<!-- //secretaria ^ centro -->
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ Secretaria ^ centro</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ Secretaria ^ centro</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ Secretaria ^ centro</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+	<!-- //Secretaria ^ ESEI -->
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ Secretaria ^ ESEI ^</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ Secretaria ^ ESEI ^</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ Secretaria ^ ESEI ^</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+	<!-- //Secretaria -->
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ Secretaria</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ Secretaria</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ Secretaria</pattern>
+				<template><srai>P6xOK</srai></template>
+			</category>
+	<!-- //Secretaria  [SIN ^]  (Salamanca, valencia...) -->
+		<!-- No tengo conocimiento sobre esa universidad -->
+	<!-- //Respuestas --> 
+		<category>
+			<pattern>P6xOK</pattern>
+			<template>x</template>
+		</category>
+</aiml>
+

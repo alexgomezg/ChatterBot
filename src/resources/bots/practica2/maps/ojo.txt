@@ -1,0 +1,7 @@
+adrian:verde
+alex:marron
+david:marron
+angel:azul
+ivan:verde
+manuel:verde
+jose:azul

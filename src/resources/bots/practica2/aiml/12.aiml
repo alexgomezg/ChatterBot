@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+		<!--	Grupo 34	-->
+<!--	Alejandro Gómez González	-->
+<!--	Iago Muñoz Varela 			-->
+<!--	Jesús Pascual Blanco 		-->
+		<!--				-->
+
+
+
+
+
+
+<!-- 12)¿Qué tipo de prácticas puedo realizar como alumno de la ESEI?-->
+    <!-- //tipo practicas Ingenieria informatica Ourense-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ tipo ^ practicas ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ tipo ^ practicas ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ tipo ^ practicas ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ tipo ^ practicas ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ tipo ^ practicas ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ tipo ^ practicas ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ tipo ^ practicas ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ tipo ^ practicas ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ tipo ^ practicas ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ tipo ^ practicas ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Habla -->
+			<category>
+				<pattern>^ Hablame ^ tipo ^ practicas ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ tipo ^ practicas ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ tipo ^ practicas ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ tipo ^ practicas ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+	<!-- //tipo practicas Ingenieria informatica UVIGO-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ tipo ^ practicas ^ ESEI</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ tipo ^ practicas ^ ESEI</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ tipo ^ practicas ^ ESEI</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ tipo ^ practicas ^ ESEI</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ tipo ^ practicas ^ ESEI</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ tipo ^ practicas ^ ESEI</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ tipo ^ practicas ^ ESEI</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ tipo ^ practicas ^ ESEI</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ tipo ^ practicas ^ ESEI</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ tipo ^ practicas ^ ESEI</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Habla -->
+			<category>
+				<pattern>^ Hablame ^ tipo ^ practicas ^ ESEI</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ tipo ^ practicas ^ ESEI</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ tipo ^ practicas ^ ESEI</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ tipo ^ practicas ^ ESEI</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+	<!-- //tipo practicas Ingenieria informatica UVIGO-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ tipo ^ practicas ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ tipo ^ practicas ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ tipo ^ practicas ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ tipo ^ practicas ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ tipo ^ practicas ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ tipo ^ practicas ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ tipo ^ practicas ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ tipo ^ practicas ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ tipo ^ practicas ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ tipo ^ practicas ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Habla -->
+			<category>
+				<pattern>^ Hablame ^ tipo ^ practicas ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ tipo ^ practicas ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ tipo ^ practicas ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ tipo ^ practicas ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+	<!-- //tipo practicas Ingenieria informatica Universidad de Vigo-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ tipo ^ practicas ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ tipo ^ practicas ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ tipo ^ practicas ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ tipo ^ practicas ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ tipo ^ practicas ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ tipo ^ practicas ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ tipo ^ practicas ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ tipo ^ practicas ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ tipo ^ practicas ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ tipo ^ practicas ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Habla -->
+			<category>
+				<pattern>^ Hablame ^ tipo ^ practicas ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ tipo ^ practicas ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ tipo ^ practicas ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ tipo ^ practicas ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+	<!-- //tipo practicas Escola Superior de Enxeñeria Informatica-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ tipo ^ practicas ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ tipo ^ practicas ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ tipo ^ practicas ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ tipo ^ practicas ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ tipo ^ practicas ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ tipo ^ practicas ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ tipo ^ practicas ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ tipo ^ practicas ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ tipo ^ practicas ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ tipo ^ practicas ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Habla -->
+			<category>
+				<pattern>^ Hablame ^ tipo ^ practicas ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ tipo ^ practicas ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ tipo ^ practicas ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ tipo ^ practicas ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+	<!-- //tipo practicas Ingenieria informatica-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ tipo ^ practicas ^ Ingenieria informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ tipo ^ practicas ^ Ingenieria informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ tipo ^ practicas ^ Ingenieria informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ tipo ^ practicas ^ Ingenieria informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ tipo ^ practicas ^ Ingenieria informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ tipo ^ practicas ^ Ingenieria informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ tipo ^ practicas ^ Ingenieria informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ tipo ^ practicas ^ Ingenieria informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ tipo ^ practicas ^ Ingenieria informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ tipo ^ practicas ^ Ingenieria informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Habla -->
+			<category>
+				<pattern>^ Hablame ^ tipo ^ practicas ^ Ingenieria informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ tipo ^ practicas ^ Ingenieria informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ tipo ^ practicas ^ Ingenieria informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ tipo ^ practicas ^ Ingenieria informatica</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+	<!-- //tipo practicas Universidad de Vigo-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ tipo ^ practicas ^ Universidad de Vigo</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ tipo ^ practicas ^ Universidad de Vigo</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ tipo ^ practicas ^ Universidad de Vigo</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ tipo ^ practicas ^ Universidad de Vigo</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ tipo ^ practicas ^ Universidad de Vigo</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ tipo ^ practicas ^ Universidad de Vigo</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ tipo ^ practicas ^ Universidad de Vigo</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ tipo ^ practicas ^ Universidad de Vigo</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ tipo ^ practicas ^ Universidad de Vigo</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ tipo ^ practicas ^ Universidad de Vigo</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Habla -->
+			<category>
+				<pattern>^ Hablame ^ tipo ^ practicas ^ Universidad de Vigo</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ tipo ^ practicas ^ Universidad de Vigo</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ tipo ^ practicas ^ Universidad de Vigo</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ tipo ^ practicas ^ Universidad de Vigo</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+	<!-- //tipo practicas centro-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ tipo ^ practicas ^ Universidad</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ tipo ^ practicas ^ Universidad</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ tipo ^ practicas ^ Universidad</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ tipo ^ practicas ^ Universidad</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ tipo ^ practicas ^ Universidad</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ tipo ^ practicas ^ Universidad</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ tipo ^ practicas ^ Universidad</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ tipo ^ practicas ^ Universidad</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ tipo ^ practicas ^ Universidad</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ tipo ^ practicas ^ Universidad</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Habla -->
+			<category>
+				<pattern>^ Hablame ^ tipo ^ practicas ^ Universidad</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ tipo ^ practicas ^ Universidad</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ tipo ^ practicas ^ Universidad</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ tipo ^ practicas ^ Universidad</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+	<!-- //tipo practicas centro-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ tipo ^ practicas ^ centro</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ tipo ^ practicas ^ centro</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ tipo ^ practicas ^ centro</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ tipo ^ practicas ^ centro</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ tipo ^ practicas ^ centro</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ tipo ^ practicas ^ centro</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ tipo ^ practicas ^ centro</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ tipo ^ practicas ^ centro</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ tipo ^ practicas ^ centro</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ tipo ^ practicas ^ centro</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Habla -->
+			<category>
+				<pattern>^ Hablame ^ tipo ^ practicas ^ centro</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ tipo ^ practicas ^ centro</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ tipo ^ practicas ^ centro</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ tipo ^ practicas ^ centro</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+	<!-- //tipo practicas ESEI-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ tipo ^ practicas ^ ESEI ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ tipo ^ practicas ^ ESEI ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ tipo ^ practicas ^ ESEI ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ tipo ^ practicas ^ ESEI ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ tipo ^ practicas ^ ESEI ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ tipo ^ practicas ^ ESEI ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ tipo ^ practicas ^ ESEI ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ tipo ^ practicas ^ ESEI ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ tipo ^ practicas ^ ESEI ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ tipo ^ practicas ^ ESEI ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Habla -->
+			<category>
+				<pattern>^ Hablame ^ tipo ^ practicas ^ ESEI ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ tipo ^ practicas ^ ESEI ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ tipo ^ practicas ^ ESEI ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ tipo ^ practicas ^ ESEI ^</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+	<!-- //tipo practicas escuela-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ tipo ^ practicas ^ escuela</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ tipo ^ practicas ^ escuela</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ tipo ^ practicas ^ escuela</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ tipo ^ practicas ^ escuela</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ tipo ^ practicas ^ escuela</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ tipo ^ practicas ^ escuela</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ tipo ^ practicas ^ escuela</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ tipo ^ practicas ^ escuela</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ tipo ^ practicas ^ escuela</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ tipo ^ practicas ^ escuela</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Habla -->
+			<category>
+				<pattern>^ Hablame ^ tipo ^ practicas ^ escuela</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ tipo ^ practicas ^ escuela</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ tipo ^ practicas ^ escuela</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ tipo ^ practicas ^ escuela</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+	<!-- //realizar practicas-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ realizar ^ practicas</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ realizar ^ practicas</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ realizar ^ practicas</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ realizar ^ practicas</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ realizar ^ practicas</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ realizar ^ practicas</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ realizar ^ practicas</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ realizar ^ practicas</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ realizar ^ practicas</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ realizar ^ practicas</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Habla -->
+			<category>
+				<pattern>^ Hablame ^ realizar ^ practicas</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ realizar ^ practicas</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ realizar ^ practicas</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ realizar ^ practicas</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+    <!-- //practicas cursar-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ practicas ^ cursar</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ practicas ^ cursar</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ practicas ^ cursar</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ practicas ^ cursar</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ practicas ^ cursar</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ practicas ^ cursar</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ practicas ^ cursar</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ practicas ^ cursar</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ practicas ^ cursar</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ practicas ^ cursar</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Habla -->
+			<category>
+				<pattern>^ Hablame ^ practicas ^ cursar</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ practicas ^ cursar</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ practicas ^ cursar</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ practicas ^ cursar</pattern>
+				<template><srai>P12xOK</srai></template>
+			</category>
+		<!-- //Respuesta --> 
+		<category>
+			<pattern>P12xOK</pattern>
+			<template>x</template>
+		</category>
+
+
+
+
+
+
+
+
+
+
+</aiml>

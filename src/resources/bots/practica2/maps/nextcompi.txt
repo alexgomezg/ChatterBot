@@ -1,0 +1,6 @@
+adrian:alex
+alex:david
+david:angel
+angel:ivan
+ivan:manuel
+manuel:jose

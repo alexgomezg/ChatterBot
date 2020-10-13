@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+		<!--	Grupo 34	-->
+<!--	Alejandro Gómez González	-->
+<!--	Iago Muñoz Varela 			-->
+<!--	Jesús Pascual Blanco 		-->
+		<!--				-->
+
+
+
+
+	
+<!-- 16)¿Cómo hago para acceder a la Biblioteca? -->
+	<!-- //Ingenieria informatica Ourense-->
+		<!-- //Entrar -->
+			<category>
+				<pattern>^ entrada ^ biblioteca ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ entrar ^ biblioteca ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ entro ^ biblioteca ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Acceder -->
+			<category>
+				<pattern>^ acceder ^ biblioteca ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ accedo ^ biblioteca ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Ir -->
+			<category>
+				<pattern>^ ir ^ biblioteca ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ voy ^ biblioteca ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ biblioteca ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ biblioteca ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ biblioteca ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica UVIGO--> 
+		<!-- //Entrar -->
+			<category>
+				<pattern>^ entrada ^ biblioteca ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ entrar ^ biblioteca ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ entro ^ biblioteca ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Acceder -->
+			<category>
+				<pattern>^ acceder ^ biblioteca ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ accedo ^ biblioteca ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Ir -->
+			<category>
+				<pattern>^ ir ^ biblioteca ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ voy ^ biblioteca ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ biblioteca ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ biblioteca ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ biblioteca ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica Universidad de Vigo--> 
+		<!-- //Entrar -->
+			<category>
+				<pattern>^ entrada ^ biblioteca ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ entrar ^ biblioteca ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ entro ^ biblioteca ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Acceder -->
+			<category>
+				<pattern>^ acceder ^ biblioteca ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ accedo ^ biblioteca ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Ir -->
+			<category>
+				<pattern>^ ir ^ biblioteca ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ voy ^ biblioteca ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ biblioteca ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ biblioteca ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ biblioteca ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+	<!-- //Escola Superior de Enxeñeria Informatica--> 
+		<!-- //Entrar -->
+			<category>
+				<pattern>^ entrada ^ biblioteca ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ entrar ^ biblioteca ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ entro ^ biblioteca ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Acceder -->
+			<category>
+				<pattern>^ acceder ^ biblioteca ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ accedo ^ biblioteca ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Ir -->
+			<category>
+				<pattern>^ ir ^ biblioteca ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ voy ^ biblioteca ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ biblioteca ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ biblioteca ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ biblioteca ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica --> 
+		<!-- //Entrar -->
+			<category>
+				<pattern>^ entrada ^ biblioteca ^ Ingenieria informatica</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ entrar ^ biblioteca ^ Ingenieria informatica</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ entro ^ biblioteca ^ Ingenieria informatica</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Acceder -->
+			<category>
+				<pattern>^ acceder ^ biblioteca ^ Ingenieria informatica</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ accedo ^ biblioteca ^ Ingenieria informatica</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Ir -->
+			<category>
+				<pattern>^ ir ^ biblioteca ^ Ingenieria informatica</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ voy ^ biblioteca ^ Ingenieria informatica</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ biblioteca ^ Ingenieria informatica</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ biblioteca ^ Ingenieria informatica</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ biblioteca ^ Ingenieria informatica</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+	<!-- //Universidad de Vigo--> 
+		<!-- //Entrar -->
+			<category>
+				<pattern>^ entrada ^ biblioteca ^ Universidad de Vigo</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ entrar ^ biblioteca ^ Universidad de Vigo</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ entro ^ biblioteca ^ Universidad de Vigo</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Acceder -->
+			<category>
+				<pattern>^ acceder ^ biblioteca ^ Universidad de Vigo</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ accedo ^ biblioteca ^ Universidad de Vigo</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Ir -->
+			<category>
+				<pattern>^ ir ^ biblioteca ^ Universidad de Vigo</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ voy ^ biblioteca ^ Universidad de Vigo</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ biblioteca ^ Universidad de Vigo</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ biblioteca ^ Universidad de Vigo</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ biblioteca ^ Universidad de Vigo</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+	<!-- //Universidad--> 
+		<!-- //Entrar -->
+			<category>
+				<pattern>^ entrada ^ biblioteca ^ Universidad</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ entrar ^ biblioteca ^ Universidad</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ entro ^ biblioteca ^ Universidad</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Acceder -->
+			<category>
+				<pattern>^ acceder ^ biblioteca ^ Universidad</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ accedo ^ biblioteca ^ Universidad</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Ir -->
+			<category>
+				<pattern>^ ir ^ biblioteca ^ Universidad</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ voy ^ biblioteca ^ Universidad</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ biblioteca ^ Universidad</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ biblioteca ^ Universidad</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ biblioteca ^ Universidad</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+	<!-- //centro--> 
+		<!-- //Entrar -->
+			<category>
+				<pattern>^ entrada ^ biblioteca ^ centro</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ entrar ^ biblioteca ^ centro</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ entro ^ biblioteca ^ centro</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Acceder -->
+			<category>
+				<pattern>^ acceder ^ biblioteca ^ centro</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ accedo ^ biblioteca ^ centro</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Ir -->
+			<category>
+				<pattern>^ ir ^ biblioteca ^ centro</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ voy ^ biblioteca ^ centro</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ biblioteca ^ centro</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ biblioteca ^ centro</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ biblioteca ^ centro</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+	<!-- //Ourense--> 
+		<!-- //Entrar -->
+			<category>
+				<pattern>^ entrada ^ biblioteca ^ Ourense</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ entrar ^ biblioteca ^ Ourense</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ entro ^ biblioteca ^ Ourense</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Acceder -->
+			<category>
+				<pattern>^ acceder ^ biblioteca ^ Ourense</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ accedo ^ biblioteca ^ Ourense</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Ir -->
+			<category>
+				<pattern>^ ir ^ biblioteca ^ Ourense</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ voy ^ biblioteca ^ Ourense</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ biblioteca ^ Ourense</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ biblioteca ^ Ourense</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ biblioteca ^ Ourense</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+	<!-- //Uvigo--> 
+		<!-- //Entrar -->
+			<category>
+				<pattern>^ entrada ^ biblioteca ^ Uvigo</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ entrar ^ biblioteca ^ Uvigo</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ entro ^ biblioteca ^ Uvigo</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Acceder -->
+			<category>
+				<pattern>^ acceder ^ biblioteca ^ Uvigo</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ accedo ^ biblioteca ^ Uvigo</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Ir -->
+			<category>
+				<pattern>^ ir ^ biblioteca ^ Uvigo</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ voy ^ biblioteca ^ Uvigo</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ biblioteca ^ Uvigo</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ biblioteca ^ Uvigo</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ biblioteca ^ Uvigo</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+	<!-- //ESEI -->
+		<!-- //Entrar -->
+			<category>
+				<pattern>^ entrada ^ biblioteca ^ ESEI</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ entrar ^ biblioteca ^ ESEI</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ entro ^ biblioteca ^ ESEI</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Acceder -->
+			<category>
+				<pattern>^ acceder ^ biblioteca ^ ESEI</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ accedo ^ biblioteca ^ ESEI</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Ir -->
+			<category>
+				<pattern>^ ir ^ biblioteca ^ ESEI</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ voy ^ biblioteca ^ ESEI</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ biblioteca ^ ESEI</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ biblioteca ^ ESEI</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ biblioteca ^ ESEI</pattern>
+				<template><srai>P16xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica [SIN ^]  (Salamanca, valencia...) --> 
+		<!-- No tengo conocimiento sobre esa universidad --> 
+	<!-- //Respuestas --> 
+		<category>
+			<pattern>P16xOK</pattern>
+			<template>x</template>
+		</category>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+</aiml>

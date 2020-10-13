@@ -1,0 +1,1758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+		<!--	Grupo 34	-->
+<!--	Alejandro Gómez González	-->
+<!--	Iago Muñoz Varela 			-->
+<!--	Jesús Pascual Blanco 		-->
+		<!--				-->
+
+
+
+
+
+
+<!-- 11)¿Qué es el suplemento europeo al título?-->
+	<!-- //Ingenieria informatica Ourense-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ titulo ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ titulo ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ titulo ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ titulo ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ titulo ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hable ^ suplemento ^ titulo ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ titulo ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ titulo ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ titulo ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ titulo ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ titulo ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ titulo ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ titulo ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ titulo ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ titulo ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //suplemento titulacion-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+	<!-- //suplemento grado-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ grado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ grado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ grado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ grado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ grado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ suplemento ^ grado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ grado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ grado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ grado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ grado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ grado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ grado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ grado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ grado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ grado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica UVIGO-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ titulo ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ titulo ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ titulo ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ titulo ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ titulo ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hable ^ suplemento ^ titulo ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ titulo ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ titulo ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ titulo ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ titulo ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ titulo ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ titulo ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ titulo ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ titulo ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ titulo ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //suplemento titulacion-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ titulacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ titulacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ titulacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ titulacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ titulacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ suplemento ^ titulacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ titulacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ titulacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ titulacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ titulacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ titulacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ titulacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ titulacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ titulacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ titulacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+	<!-- //suplemento grado-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ grado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ grado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ grado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ grado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ grado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ suplemento ^ grado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ grado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ grado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ grado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ grado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ grado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ grado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ grado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ grado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ grado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica Universidad de Vigo-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ titulo ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ titulo ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ titulo ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ titulo ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ titulo ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hable ^ suplemento ^ titulo ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ titulo ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ titulo ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ titulo ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ titulo ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ titulo ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ titulo ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ titulo ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ titulo ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ titulo ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //suplemento titulacion-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ titulacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+	<!-- //suplemento grado-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ grado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ grado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ grado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ grado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ grado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ suplemento ^ grado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ grado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ grado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ grado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ grado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ grado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ grado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ grado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ grado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ grado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+	<!-- //Escola Superior de Enxeñeria Informatica-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ titulo ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ titulo ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ titulo ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ titulo ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ titulo ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hable ^ suplemento ^ titulo ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ titulo ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ titulo ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ titulo ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ titulo ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ titulo ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ titulo ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ titulo ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ titulo ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ titulo ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //suplemento titulacion-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ titulacion ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ titulacion ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ titulacion ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ titulacion ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ titulacion ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ suplemento ^ titulacion ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ titulacion ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ titulacion ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ titulacion ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ titulacion ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ titulacion ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ titulacion ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ titulacion ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ titulacion ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ titulacion ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+	<!-- //suplemento grado-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ suplemento ^ grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+	<!-- //suplemento titulo-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ titulo ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ titulo ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ titulo ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ titulo ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ titulo ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hable ^ suplemento ^ titulo ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ titulo ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ titulo ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ titulo ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ titulo ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ titulo ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ titulo ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ titulo ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ titulo ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ titulo ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //suplemento titulacion-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ titulacion ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ titulacion ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ titulacion ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ titulacion ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ titulacion ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ suplemento ^ titulacion ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ titulacion ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ titulacion ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ titulacion ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ titulacion ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ titulacion ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ titulacion ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ titulacion ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ titulacion ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ titulacion ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+	<!-- //suplemento grado-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ grado ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ grado ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ grado ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ grado ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ grado ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ suplemento ^ grado ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ grado ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ grado ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ grado ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ grado ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ grado ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ grado ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ grado ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ grado ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ grado ^ Ingenieria informatica</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+	<!-- //suplemento titulo-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ titulo ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ titulo ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ titulo ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ titulo ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ titulo ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hable ^ suplemento ^ titulo ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ titulo ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ titulo ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ titulo ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ titulo ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ titulo ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ titulo ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ titulo ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ titulo ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ titulo ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //suplemento titulacion-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ titulacion ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ titulacion ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ titulacion ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ titulacion ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ titulacion ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ suplemento ^ titulacion ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ titulacion ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ titulacion ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ titulacion ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ titulacion ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ titulacion ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ titulacion ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ titulacion ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ titulacion ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ titulacion ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+	<!-- //suplemento grado-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ grado ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ grado ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ grado ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ grado ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ grado ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ suplemento ^ grado ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ grado ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ grado ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ grado ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ grado ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ grado ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ grado ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ grado ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ grado ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ grado ^ Centro</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+	<!-- //ESEI-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ titulo ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ titulo ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ titulo ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ titulo ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ titulo ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hable ^ suplemento ^ titulo ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ titulo ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ titulo ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ titulo ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ titulo ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ titulo ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ titulo ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ titulo ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ titulo ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ titulo ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //suplemento titulacion-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ titulacion ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ titulacion ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ titulacion ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ titulacion ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ titulacion ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ suplemento ^ titulacion ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ titulacion ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ titulacion ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ titulacion ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ titulacion ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ titulacion ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ titulacion ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ titulacion ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ titulacion ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ titulacion ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+	<!-- //suplemento grado-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ grado ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ grado ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ grado ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ grado ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ grado ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ suplemento ^ grado ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ grado ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ grado ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ grado ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ grado ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ grado ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ grado ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ grado ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ grado ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ grado ^ ESEI ^</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>		
+	<!-- //suplemento titulo-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ titulo</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ titulo</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ titulo</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ titulo</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ titulo</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hable ^ suplemento ^ titulo</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ titulo</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ titulo</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ titulo</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ titulo</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ titulo</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ titulo</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ titulo</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ titulo</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ titulo</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //suplemento titulacion-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ titulacion</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ titulacion</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ titulacion</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ titulacion</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ titulacion</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ suplemento ^ titulacion</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ titulacion</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ titulacion</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ titulacion</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ titulacion</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ titulacion</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ titulacion</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ titulacion</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ titulacion</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ titulacion</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+	<!-- //suplemento grado-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ suplemento ^ grado</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ suplemento ^ grado</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ suplemento ^ grado</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ suplemento ^ grado</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ suplemento ^ grado</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ suplemento ^ grado</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ suplemento ^ grado</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ suplemento ^ grado</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ suplemento ^ grado</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ suplemento ^ grado</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ suplemento ^ grado</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ suplemento ^ grado</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ suplemento ^ grado</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ suplemento ^ grado</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ suplemento ^ grado</pattern>
+				<template><srai>P11xOK</srai></template>
+			</category>
+		<!-- //Respuesta --> 
+		<category>
+			<pattern>P11xOK</pattern>
+			<template>x</template>
+		</category>
+
+
+
+
+
+
+
+
+
+
+</aiml>

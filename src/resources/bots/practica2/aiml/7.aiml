@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+		<!--	Grupo 34	-->
+<!--	Alejandro Gómez González	-->
+<!--	Iago Muñoz Varela 			-->
+<!--	Jesús Pascual Blanco 		-->
+		<!--				-->
+
+
+
+<!-- 7)¿Qué horario de atención al público tiene la secretaría del centro? -->
+	<!-- //secretaria ^ Ingenieria informatica ^ Ourense ^ -->
+		<!-- //Horario -->
+			<category>
+				<pattern>^ Horario ^ Secretaria ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+		<!-- //Abrierto -->
+			<category>
+				<pattern>^ abierto ^ Secretaria ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ abre ^ Secretaria ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+	<!-- //secretaria ^ Ingenieria informatica ^ UVIGO ^ -->
+		<!-- //Horario -->
+			<category>
+				<pattern>^ Horario ^ Secretaria ^ ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+		<!-- //Abrierto -->
+			<category>
+				<pattern>^ abierto ^ Secretaria ^ ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ abre ^ Secretaria ^ ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+	<!-- //secretaria ^ Ingenieria informatica ^ Universidad de Vigo ^ -->
+		<!-- //Horario -->
+			<category>
+				<pattern>^ Horario ^ Secretaria ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+		<!-- //Abrierto -->
+			<category>
+				<pattern>^ abierto ^ Secretaria ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ abre ^ Secretaria ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+<!-- //secretaria ^ Escola Superior de Enxeñeria Informatica ^ -->
+		<!-- //Horario -->
+			<category>
+				<pattern>^ Horario ^ Secretaria ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+		<!-- //Abrierto -->
+			<category>
+				<pattern>^ abierto ^ Secretaria ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ abre ^ Secretaria ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+	<!-- //secretaria ^ Ingenieria informatica -->
+		<!-- //Horario -->
+			<category>
+				<pattern>^ Horario ^ Secretaria ^ Ingenieria informatica</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+		<!-- //Abrierto -->
+			<category>
+				<pattern>^ abierto ^ Secretaria ^ Ingenieria informatica</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ abre ^ Secretaria ^ Ingenieria informatica</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+	<!-- //secretaria ^ universidad -->
+		<!-- //Horario -->
+			<category>
+				<pattern>^ Horario ^ Secretaria ^ universidad</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+		<!-- //Abrierto -->
+			<category>
+				<pattern>^ abierto ^ Secretaria ^ universidad</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ abre ^ Secretaria ^ universidad</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+	<!-- //secretaria ^ centro -->
+		<!-- //Horario -->
+			<category>
+				<pattern>^ Horario ^ Secretaria ^ centro</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+		<!-- //Abrierto -->
+			<category>
+				<pattern>^ abierto ^ Secretaria ^ centro</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ abre ^ Secretaria ^ centro</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+	<!-- //secretaria ^ ESEI -->
+		<!-- //Horario -->
+			<category>
+				<pattern>^ Horario ^ Secretaria ^ ESEI ^</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+		<!-- //Abrierto -->
+			<category>
+				<pattern>^ abierto ^ Secretaria ^ ESEI ^</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ abre ^ Secretaria ^ ESEI ^</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+	<!-- //secretaria -->
+		<!-- //Horario -->
+			<category>
+				<pattern>^ Horario ^ Secretaria ^ secretaria</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+		<!-- //Abrierto -->
+			<category>
+				<pattern>^ abierto ^ Secretaria ^ secretaria</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ abre ^ Secretaria ^ secretaria</pattern>
+				<template><srai>P7xOK</srai></template>
+			</category>
+	<!-- //Secretaria  [SIN ^]  (Salamanca, valencia...) -->
+		<!-- No tengo conocimiento sobre esa universidad -->
+	<!-- //Respuestas --> 
+		<category>
+			<pattern>P7xOK</pattern>
+			<template>x</template>
+		</category>
+</aiml>
+

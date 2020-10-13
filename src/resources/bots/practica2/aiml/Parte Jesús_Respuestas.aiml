@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+		<!--	Grupo 34	-->
+<!--	Alejandro Gómez González	-->
+<!--	Iago Muñoz Varela 			-->
+<!--	Jesús Pascual Blanco 		-->
+		<!--				-->
+
+
+
+<!-- 1)Háblame un poco sobre la Universidad de Vigo  (UVIGO  | Universidad ) -->
+	<!-- //Respuestas --> 
+		<category>
+			<pattern>P1xOK</pattern>
+			<template>
+				<random>
+					<li>La Universidade de Vigo cuenta con diferentes programas y herramientas para llegar a la plena integración en la vida universitaria del alumnado con necesidades específicas de apoyo educativo.</li>
+					<li>La UVigo cuenta con diferentes programas y herramientas para llegar a la plena integración en la vida universitaria del alumnado con necesidades específicas de apoyo educativo.</li>
+					<li>La Universidad de Vigo cuenta con diferentes programas y herramientas para llegar a la plena integración del alumnado en la vida universitaria.</li>
+					<li>La UVigo cuenta con diferentes programas y herramientas para llegar a la plena integración del alumnado en la vida universitaria.</li>
+					<li>La Universidad de Vigo (o UVigo) nació en 1990. De ella destaca el vanguradismo y se mantiene la excelencia como objetivo, además poco a poco crece como referencia internacional de innovación e investigación.</li>
+					<li>La UVIgo nació en 1990. De ella destaca el vanguradismo y se mantiene la excelencia como objetivo, además poco a poco crece como referencia internacional de innovación e investigación.</li>
+					<li>La UVigo fue fundada en 1990. Desde entonces se ha mantenido con un constante crecimiento y consolidación, mientras consigue integrar al alumnado en la vida universitaria mediante los apoyos necesarios.</li>
+					<li>La Universidad de Vigo es una institución pública con autonomía académica, económica y de gobierno y que se sitúa al servicio de la sociedad bajo los principios de igualdad, solidaridad, democracia y libertad.</li>
+					<li>La UVigo es una institución pública con autonomía académica, económica y de gobierno y que se sitúa al servicio de la sociedad bajo los principios de igualdad, solidaridad, democracia y libertad.</li>
+					<li>Los fines proritarios de la UVigo son la consecución de las máximas cotas de calidad de docencia e investigación, así como el fomento de la búsqueda de nuevos conocimientos y la transferencia de éstos a la sociedad, la creación artística y el desarrollo científico y tecnológico.</li>
+					<li>Los fines proritarios de la Universidad de Vigo son la consecución de las máximas cotas de calidad de docencia e investigación, así como el fomento de la búsqueda de nuevos conocimientos y la transferencia de éstos a la sociedad, la creación artística y el desarrollo científico y tecnológico.</li>
+					<li>La Universidad de Vigo cuenta con tres campus especializados: Ourense (Campus da Auga), Pontevedra (Campus CREA) y Vigo (Campus Tecnolóxico de Vigo). En total existen 122 titulaciones a lo largo de toda la UVigo</li>
+					<li>La UVigo cuenta con tres campus especializados: Ourense (Campus da Auga), Pontevedra (Campus CREA) y Vigo (Campus Tecnolóxico de Vigo). En total existen 122 titulaciones a lo largo de toda la UVigo</li>
+					<li>La Universidad de Vigo cuenta con un total de 122 titulaciones a lo largo de los tres campus. Entre todos ellos se abarcan distintos campos del conocimiento: arte y humanidades, ciencias (física, química, de la salud, sociales y jurídicas), ingeniería y arquitectura.</li>
+					<li>La UVigo cuenta con un total de 122 titulaciones a lo largo de los tres campus. Entre todos ellos se abarcan distintos campos del conocimiento: arte y humanidades, ciencias (física, química, de la salud, sociales y jurídicas), ingeniería y arquitectura.</li>
+				</random>
+			</template>
+		</category>
+		
+		
+
+
+<!-- 2)¿Dónde se encuentra la ESEI? (ingenieria informatica) -->
+	<!-- //Respuestas --> 
+		<category>
+			<pattern>P2xOK</pattern>
+			<template>
+				<random>
+					<li>La ESEI es la Escola Superior de Enxeñería Informática, con dirección Edificio Politécnico s/n, 32004 Ourense.</li>
+					<li>La ESEI es la Escola Superior de Enxeñería Informática, con dirección Edificio Politécnico s/n, 32004 Ourense, Galicia.</li>
+					<li>Edificio Politécnico s/n, 32004 Ourense.</li>
+					<li>Edificio Politécnico s/n, 32004 Ourense, Galicia.</li>
+					<li>Si buscas ESEI en Maps te dirá que su dirección es: Edificio Politécnico s/n, 32004 Ourense.</li>
+					<li>La ESEI es la Escola Superior de Enxeñería Informática, y está localizada en el campus de Ourense de la Universidad de Vigo.</li>
+					<li>La ESEI es la Escola Superior de Enxeñería Informática, y está localizada en el campus de Ourense de la UVigo.</li>
+					<li>La ESEI está localizada en el campus de Ourense de la Universidad de Vigo.</li>
+					<li>La ESEI está localizada en el campus de Ourense de la UVigo.</li>
+					<li>La ESEI es el Edificio Politécnico situado en el campus universitario de Ourense.</li>
+				</random>
+			</template>
+		</category>
+		
+		
+		
+		
+		
+<!-- 3)¿Qué puedo estudiar en la ESEI? -->
+	<!-- //Respuestas --> 
+		<category>
+			<pattern>P3xOK</pattern>
+			<template>Los cursos que se ofrecen actualmente en la ESEI son:
+				<think>
+					<set var="curr">Grado en Ingenieria Informatica</set>
+					<set var="last">Estudios de Doctorado</set>
+				</think><condition var="curr">
+					<!-- Caso base -->
+					<li><value><get var="last"/></value><get var="last"/></li>
+					<!-- Iterador -->
+					<li><get var="curr"/><think>
+						<set var="curr"><map name="estudios"><get var="curr"/></map></set>
+					</think><loop/>
+					</li>
+				</condition>
+			</template>
+		</category>
+		
+		
+		
+		
+		
+<!-- 4)¿Por qué merece la pena estudiar en la ESEI? --> 
+	<!-- //Respuestas --> 
+		<category>
+			<pattern>P4xOK</pattern>
+			<template>El edificio cuenta con una serie de instalaciones donde los estudiantes se pueden reunir y llevar a cabo proyectos que les pueda interesar. Para ello están los seminarios, el aula de libre acceso o la biblioteca.
+			Además la Universidad ofrece con frecuencia prácticas curriculares y extracurriculares que te ayudarán con tu salida al mercado laboral.</template>
+		</category>
+
+
+<!-- 5)¿Hay una cafetería en la ESEI? --> 
+	<!-- //Respuestas --> 
+		<category>
+			<pattern>P5xOK</pattern>
+			<template>
+				<random>
+					<li>¡Sí, claro! Existe una cafetería con una terraza al aire libre.</li>
+					<li>¡Sí, claro! Hay una cafetería con una terraza al aire libre.</li>
+					<li>¡Sí, claro! Existe una cafetería con una terraza al aire libre en el centro.</li>
+					<li>¡Sí, claro! Hay una cafetería con una terraza al aire libre en el centro.</li>
+					<li>¡Sí, claro! Existe una cafetería con una terraza al aire libre en la ESEI.</li>
+					<li>¡Sí, claro! Hay una cafetería con una terraza al aire libre en la ESEI.</li>
+					<li>¡Sí, claro! Existe una cafetería con una terraza al aire libre en la facultad.</li>
+					<li>¡Sí, claro! Hay una cafetería con una terraza al aire libre en la facultad.</li>
+					
+					<li>¡Sí, por supuesto! Existe una cafetería con una terraza al aire libre.</li>
+					<li>¡Sí, por supuesto! Hay una cafetería con una terraza al aire libre.</li>
+					<li>¡Sí, por supuesto! Existe una cafetería con una terraza al aire libre en el centro.</li>
+					<li>¡Sí, por supuesto! Hay una cafetería con una terraza al aire libre en el centro.</li>
+					<li>¡Sí, por supuesto! Existe una cafetería con una terraza al aire libre en la ESEI.</li>
+					<li>¡Sí, por supuesto! Hay una cafetería con una terraza al aire libre en la ESEI.</li>
+					<li>¡Sí, por supuesto! Existe una cafetería con una terraza al aire libre en la facultad.</li>
+					<li>¡Sí, por supuesto! Hay una cafetería con una terraza al aire libre en la facultad.</li>
+					
+					<li>¡Sí, claro! Existe una cafetería en la que se come muy bien.</li>
+					<li>¡Sí, claro! Hay una cafetería con una terraza al aire libre en la que se come muy bien.</li>
+					<li>¡Sí, por supuesto! Existe una cafetería en la que se come muy bien.</li>
+					<li>¡Sí, por supuesto! Hay una cafetería con una terraza al aire libre en la que se come muy bien.</li>
+					
+					<li>La ESEI dispone de una cafetería. ¡Y está muy bien de precio!</li>
+					<li>El centro dispone de una cafetería. ¡Y está muy bien de precio!</li>
+					<li>La facultad dispone de una cafetería. ¡Y está muy bien de precio!</li>
+					<li>La ESEI dispone de una cafetería. ¡Y está muy bien de precio!</li>
+					
+					<li>Así es, existe una cafetería. Es un buen sitio para tomarse un descanso con tus compañeros.</li>
+					<li>Así es, existe una cafetería. Es muy buen sitio para tomarse un descanso con tus compañeros.</li>
+					<li>Así es, existe una cafetería. Es un buen sitio para tomarse un descanso entre horas.</li>
+					<li>Así es, existe una cafetería. Es muy buen sitio para tomarse un descanso entre horas.</li>
+				</random>
+			</template>
+		</category>
+
+
+<!-- 6)¿Dónde se encuentra la Secretaría de la ESEI? -->
+	<!-- //Respuestas --> 
+		<category>
+			<pattern>P6xOK</pattern>
+			<template>La secretaría se encuentra en la planta baja del edificio de la ESEI.
+			Contacto: Francisca Merino Garrido, +34 988387002, sdireccion.esei@uvigo.es</template>
+		</category>
+
+
+
+<!-- 7)¿Qué horario de atención al público tiene la secretaría del centro? -->
+	<!-- //Respuestas --> 
+		<category>
+			<pattern>P7xOK</pattern>
+			<template>
+				<random>
+					<li>Horario de secretaría: lunes-viernes, 9:00-14:00</li>
+					<li>Horario de secretaría: lunes-viernes, 9h-14h</li>
+					<li>Horario de secretaría: lunes-viernes, 9am-2pm</li>
+					<li>La secretaría está abierta de 9h a 14h de lunes a viernes.</li>
+					<li>La secretaría solo abre de 9h a 14h de lunes a viernes.</li>
+					<li>La secretaría está abierta de 9 am a 2 pm, de lunes a viernes.</li>
+					<li>La secretaría abre de 9 am a 2 pm, de lunes a viernes.</li>
+					<li>La secretaría abre de 9h a 14h, de lunes a viernes.</li>
+				</random>
+			</template>
+		</category>
+
+
+
+<!-- 8)¿En qué consiste el PAT? -->
+	<!-- //Respuestas --> 
+		<category>
+			<pattern>P8xOK</pattern>
+			<template>El Plan de Acción Tutorial de la ESEI se configura como el instrumento a través del cual se diseña el contenido y la ejecución de las distintas acciones relativas a la tutoría universitaria.
+				El PAT tiene como objetivos:
+				- Mejorar la implicación del alumnado en la Gestión del Centro.
+				- Mejorar la satisfacción del estudiantado con la formación recibida.
+				- Dar cobertura a las necesidades de apoyo formativo del alumnado.
+			</template>
+		</category>
+</aiml>
+

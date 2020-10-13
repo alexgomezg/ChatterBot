@@ -1,0 +1,7 @@
+adrian:rubio
+alex:marron
+david:negro
+angel:negro
+ivan:rubio
+manuel:rubio
+jose:rubio

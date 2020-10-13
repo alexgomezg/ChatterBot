@@ -1,0 +1,1652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+		<!--	Grupo 34	-->
+<!--	Alejandro Gómez González	-->
+<!--	Iago Muñoz Varela 			-->
+<!--	Jesús Pascual Blanco 		-->
+		<!--				-->
+
+
+
+
+	
+		
+<!-- 14)¿Con qué recursos materiales y servicios cuenta la ESEI? -->
+ 	<!-- //recursos materiales ^ Ingenieria informatica Ourense -->
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ materiales ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ materiales ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ material ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ material ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Contar -->
+			<category>
+				<pattern>^ Cuentame ^ materiales ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ materiales ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ material ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ material ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Decir -->
+			<category>
+				<pattern>^ Dime ^ materiales ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ material ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Comentar -->
+			<category>
+				<pattern>^ Comentame ^ materiales ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ materiales ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ material ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ material ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //opinar -->
+			<category>
+				<pattern>^ Opiname ^ materiales ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ materiales ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ material ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ material ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ materiales ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ materiales ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ material ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ material ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ materiales ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ materiales ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ material ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ material ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Enumera -->
+			<category>
+				<pattern>^ Enumerame ^ materiales ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumera ^ materiales ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumerame ^ material ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumera ^ material ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Que | Como | Cual -->
+			<category>
+				<pattern>^ Que ^ materiales ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ materiales ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cual ^ materiales ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuales ^ materiales ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ material ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ material ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cual ^ material ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuales ^ material ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+ 	<!-- //recursos materiales ^ Ingenieria informatica UVIGO -->
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ materiales ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ materiales ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ material ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ material ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Contar -->
+			<category>
+				<pattern>^ Cuentame ^ materiales ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ materiales ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ material ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ material ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Decir -->
+			<category>
+				<pattern>^ Dime ^ materiales ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ material ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Comentar -->
+			<category>
+				<pattern>^ Comentame ^ materiales ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ materiales ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ material ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ material ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //opinar -->
+			<category>
+				<pattern>^ Opiname ^ materiales ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ materiales ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ material ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ material ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ materiales ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ materiales ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ material ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ material ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ materiales ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ materiales ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ material ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ material ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Enumera -->
+			<category>
+				<pattern>^ Enumerame ^ materiales ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumera ^ materiales ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumerame ^ material ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumera ^ material ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Que | Como | Cual -->
+			<category>
+				<pattern>^ Que ^ materiales ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ materiales ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cual ^ materiales ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuales ^ materiales ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ material ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ material ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cual ^ material ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuales ^ material ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+ 	<!-- //recursos materiales ^ Ingenieria informatica Universidad de Vigo -->
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ materiales ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ materiales ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ material ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ material ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Contar -->
+			<category>
+				<pattern>^ Cuentame ^ materiales ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ materiales ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ material ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ material ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Decir -->
+			<category>
+				<pattern>^ Dime ^ materiales ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ material ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Comentar -->
+			<category>
+				<pattern>^ Comentame ^ materiales ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ materiales ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ material ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ material ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //opinar -->
+			<category>
+				<pattern>^ Opiname ^ materiales ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ materiales ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ material ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ material ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ materiales ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ materiales ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ material ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ material ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ materiales ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ materiales ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ material ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ material ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Enumera -->
+			<category>
+				<pattern>^ Enumerame ^ materiales ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumera ^ materiales ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumerame ^ material ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumera ^ material ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Que | Como | Cual -->
+			<category>
+				<pattern>^ Que ^ materiales ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ materiales ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cual ^ materiales ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuales ^ materiales ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ material ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ material ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cual ^ material ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuales ^ material ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+ 	<!-- //recursos materiales ^ Escola Superior de Enxeñeria Informatica -->
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ materiales ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ materiales ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ material ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ material ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Contar -->
+			<category>
+				<pattern>^ Cuentame ^ materiales ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ materiales ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ material ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ material ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Decir -->
+			<category>
+				<pattern>^ Dime ^ materiales ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ material ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Comentar -->
+			<category>
+				<pattern>^ Comentame ^ materiales ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ materiales ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ material ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ material ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //opinar -->
+			<category>
+				<pattern>^ Opiname ^ materiales ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ materiales ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ material ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ material ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ materiales ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ materiales ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ material ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ material ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ materiales ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ materiales ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ material ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ material ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Enumera -->
+			<category>
+				<pattern>^ Enumerame ^ materiales ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumera ^ materiales ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumerame ^ material ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumera ^ material ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Que | Como | Cual -->
+			<category>
+				<pattern>^ Que ^ materiales ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ materiales ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cual ^ materiales ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuales ^ materiales ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ material ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ material ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cual ^ material ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuales ^ material ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+ 	<!-- //recursos materiales ^ Ingenieria informatica -->
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ materiales ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ materiales ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ material ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ material ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Contar -->
+			<category>
+				<pattern>^ Cuentame ^ materiales ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ materiales ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ material ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ material ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Decir -->
+			<category>
+				<pattern>^ Dime ^ materiales ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ material ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Comentar -->
+			<category>
+				<pattern>^ Comentame ^ materiales ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ materiales ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ material ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ material ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //opinar -->
+			<category>
+				<pattern>^ Opiname ^ materiales ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ materiales ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ material ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ material ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ materiales ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ materiales ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ material ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ material ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ materiales ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ materiales ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ material ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ material ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Enumera -->
+			<category>
+				<pattern>^ Enumerame ^ materiales ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumera ^ materiales ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumerame ^ material ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumera ^ material ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Que | Como | Cual -->
+			<category>
+				<pattern>^ Que ^ materiales ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ materiales ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cual ^ materiales ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuales ^ materiales ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ material ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ material ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cual ^ material ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuales ^ material ^ Ingenieria informatica ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+ 	<!-- //recursos materiales ^ universidad -->
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ materiales ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ materiales ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ material ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ material ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Contar -->
+			<category>
+				<pattern>^ Cuentame ^ materiales ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ materiales ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ material ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ material ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Decir -->
+			<category>
+				<pattern>^ Dime ^ materiales ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ material ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Comentar -->
+			<category>
+				<pattern>^ Comentame ^ materiales ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ materiales ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ material ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ material ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //opinar -->
+			<category>
+				<pattern>^ Opiname ^ materiales ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ materiales ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ material ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ material ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ materiales ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ materiales ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ material ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ material ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ materiales ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ materiales ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ material ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ material ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Enumera -->
+			<category>
+				<pattern>^ Enumerame ^ materiales ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumera ^ materiales ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumerame ^ material ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumera ^ material ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Que | Como | Cual -->
+			<category>
+				<pattern>^ Que ^ materiales ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ materiales ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cual ^ materiales ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuales ^ materiales ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ material ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ material ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cual ^ material ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuales ^ material ^ universidad ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+ 	<!-- //recursos materiales ^ centro -->
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ materiales ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ materiales ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ material ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ material ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Contar -->
+			<category>
+				<pattern>^ Cuentame ^ materiales ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ materiales ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ material ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ material ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Decir -->
+			<category>
+				<pattern>^ Dime ^ materiales ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ material ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Comentar -->
+			<category>
+				<pattern>^ Comentame ^ materiales ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ materiales ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ material ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ material ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //opinar -->
+			<category>
+				<pattern>^ Opiname ^ materiales ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ materiales ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ material ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ material ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ materiales ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ materiales ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ material ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ material ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ materiales ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ materiales ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ material ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ material ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Enumera -->
+			<category>
+				<pattern>^ Enumerame ^ materiales ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumera ^ materiales ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumerame ^ material ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumera ^ material ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Que | Como | Cual -->
+			<category>
+				<pattern>^ Que ^ materiales ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ materiales ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cual ^ materiales ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuales ^ materiales ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ material ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ material ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cual ^ material ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuales ^ material ^ centro ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+ 	<!-- //recursos materiales ^ ESEI -->
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ materiales ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ materiales ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ material ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ material ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Contar -->
+			<category>
+				<pattern>^ Cuentame ^ materiales ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ materiales ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ material ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ material ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Decir -->
+			<category>
+				<pattern>^ Dime ^ materiales ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ material ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Comentar -->
+			<category>
+				<pattern>^ Comentame ^ materiales ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ materiales ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ material ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ material ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //opinar -->
+			<category>
+				<pattern>^ Opiname ^ materiales ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ materiales ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ material ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ material ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ materiales ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ materiales ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ material ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ material ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ materiales ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ materiales ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ material ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ material ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Enumera -->
+			<category>
+				<pattern>^ Enumerame ^ materiales ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumera ^ materiales ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumerame ^ material ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumera ^ material ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Que | Como | Cual -->
+			<category>
+				<pattern>^ Que ^ materiales ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ materiales ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cual ^ materiales ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuales ^ materiales ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ material ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ material ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cual ^ material ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuales ^ material ^ ESEI ^</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+ 	<!-- //recursos materiales y servicios -->
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ materiales ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ materiales ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ material ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ material ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Contar -->
+			<category>
+				<pattern>^ Cuentame ^ materiales ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ materiales ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ material ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ material ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Decir -->
+			<category>
+				<pattern>^ Dime ^ materiales ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ material ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Comentar -->
+			<category>
+				<pattern>^ Comentame ^ materiales ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ materiales ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ material ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ material ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //opinar -->
+			<category>
+				<pattern>^ Opiname ^ materiales ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ materiales ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ material ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ material ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ materiales ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ materiales ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ material ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ material ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ materiales ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ materiales ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ material ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ material ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Enumera -->
+			<category>
+				<pattern>^ Enumerame ^ materiales ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumera ^ materiales ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumerame ^ material ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumera ^ material ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Que | Como | Cual -->
+			<category>
+				<pattern>^ Que ^ materiales ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ materiales ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cual ^ materiales ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuales ^ materiales ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ material ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ material ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cual ^ material ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuales ^ material ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+ 	<!-- //servicios -->
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ servicio</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ servicio</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Contar -->
+			<category>
+				<pattern>^ Cuentame ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ servicio</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ servicio</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Decir -->
+			<category>
+				<pattern>^ Dime ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ servicio</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Comentar -->
+			<category>
+				<pattern>^ Comentame ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ servicio</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ servicio</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //opinar -->
+			<category>
+				<pattern>^ Opiname ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ servicio</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ servicio</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ servicio</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ servicio</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ servicio</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ servicio</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Enumera -->
+			<category>
+				<pattern>^ Enumerame ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumera ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumerame ^ servicio</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Enumera ^ servicio</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+		<!-- //Que | Como | Cual -->
+			<category>
+				<pattern>^ Que ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cual ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuales ^ servicios</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ servicio</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ servicio</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cual ^ servicio</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuales ^ servicio</pattern>
+				<template><srai>P14xOK</srai></template>
+			</category>
+	<!-- //recursos materiales  [SIN ^]  (Salamanca, valencia...) --> 
+		<!-- No tengo conocimiento sobre esa universidad -->
+	<!-- //Respuesta --> 
+	<category>
+		<pattern>P14xOK</pattern>
+		<template>x</template>
+	</category>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+</aiml>

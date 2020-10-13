@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+		<!--	Grupo 34	-->
+<!--	Alejandro Gómez González	-->
+<!--	Iago Muñoz Varela 			-->
+<!--	Jesús Pascual Blanco 		-->
+		<!--				-->
+
+
+
+
+	
+		
+<!-- 18)¿Qué actividades deportivas ofrece la ESEI -->
+	<!-- //Ingenieria informatica Ourense -->
+		<!-- //Entrar -->
+			<category>
+				<pattern>^ actividades deportivas ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ deportes ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ deporte ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica UVIGO -->
+		<!-- //Entrar -->
+			<category>
+				<pattern>^ actividades deportivas ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ deportes ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ deporte ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica Universidad de Vigo -->
+		<!-- //Entrar -->
+			<category>
+				<pattern>^ actividades deportivas ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ deportes ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ deporte ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+	<!-- //Escola Superior de Enxeñeria Informatica -->
+		<!-- //Entrar -->
+			<category>
+				<pattern>^ actividades deportivas ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ deportes ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ deporte ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica -->
+		<!-- //Entrar -->
+			<category>
+				<pattern>^ actividades deportivas ^ Ingenieria informatica</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ deportes ^ Ingenieria informatica</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ deporte ^ Ingenieria informatica</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+	<!-- //Universidad de Vigo -->
+		<!-- //Entrar -->
+			<category>
+				<pattern>^ actividades deportivas ^ Universidad de Vigo</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ deportes ^ Universidad de Vigo</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ deporte ^ Universidad de Vigo</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+	<!-- //Universidad -->
+		<!-- //Entrar -->
+			<category>
+				<pattern>^ actividades deportivas ^ Universidad</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ deportes ^ Universidad</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ deporte ^ Universidad</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+	<!-- //Centro -->
+		<!-- //Entrar -->
+			<category>
+				<pattern>^ actividades deportivas ^ Centro</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ deportes ^ Centro</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ deporte ^ Centro</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+	<!-- //Uvigo -->
+		<!-- //Entrar -->
+			<category>
+				<pattern>^ actividades deportivas ^ Uvigo</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ deportes ^ Uvigo</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ deporte ^ Uvigo</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+	<!-- //ESEI -->
+		<!-- //Entrar -->
+			<category>
+				<pattern>^ actividades deportivas ^ ESEI</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ deportes ^ ESEI</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ deporte ^ ESEI</pattern>
+				<template><srai>P18xOK</srai></template>
+			</category>
+	<!-- //Respuestas --> 
+		<category>
+			<pattern>P18xOK</pattern>
+			<template>x</template>
+		</category>
+	
+	
+		
+		
+		
+		
+		
+		
+		
+</aiml>
+

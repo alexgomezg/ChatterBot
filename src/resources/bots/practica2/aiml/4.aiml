@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+		<!--	Grupo 34	-->
+<!--	Alejandro Gómez González	-->
+<!--	Iago Muñoz Varela 			-->
+<!--	Jesús Pascual Blanco 		-->
+		<!--				-->
+
+
+
+<!-- 4)¿Por qué merece la pena estudiar en la ESEI? --> 
+	<!--//Ingenieria informatica Ourense --> 
+		<!-- //Merece la pena --> 
+			<category>
+				<pattern>^ Merece la pena ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //interes -->
+			<category>
+				<pattern>^ interes ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ interesa ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //beneficios -->
+			<category>
+				<pattern>^ beneficios ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ beneficio ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //positivo -->
+			<category>
+				<pattern>^ positivo ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ positivas ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica UVIGO--> 
+		<!-- //Merece la pena --> 
+			<category>
+				<pattern>^ Merece la pena ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //interes -->
+			<category>
+				<pattern>^ interes ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ interesa ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //beneficios -->
+			<category>
+				<pattern>^ beneficios ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ beneficio ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //positivo -->
+			<category>
+				<pattern>^ positivo ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ positivas ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica Universidad de Vigo --> 
+		<!-- //Merece la pena --> 
+			<category>
+				<pattern>^ Merece la pena ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //interes -->
+			<category>
+				<pattern>^ interes ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ interesa ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //beneficios -->
+			<category>
+				<pattern>^ beneficios ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ beneficio ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //positivo -->
+			<category>
+				<pattern>^ positivo ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ positivas ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+	<!-- //Escola Superior de Enxeñeria Informatica --> 
+		<!-- //Merece la pena --> 
+			<category>
+				<pattern>^ Merece la pena ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //interes -->
+			<category>
+				<pattern>^ interes ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ interesa ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //beneficios -->
+			<category>
+				<pattern>^ beneficios ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ beneficio ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //positivo -->
+			<category>
+				<pattern>^ positivo ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ positivas ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica --> 
+		<!-- //Merece la pena --> 
+			<category>
+				<pattern>^ Merece la pena ^ Ingenieria informatica</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //interes -->
+			<category>
+				<pattern>^ interes ^ Ingenieria informatica</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ interesa ^ Ingenieria informatica</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //beneficios -->
+			<category>
+				<pattern>^ beneficios ^ Ingenieria informatica</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ beneficio ^ Ingenieria informatica</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //positivo -->
+			<category>
+				<pattern>^ positivo ^ Ingenieria informatica</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ positivas ^ Ingenieria informatica</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+	<!-- //^ Universidad de Vigo --> 
+		<!-- //Merece la pena --> 
+			<category>
+				<pattern>^ Merece la pena ^ Universidad de Vigo</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //interes -->
+			<category>
+				<pattern>^ interes ^ Universidad de Vigo</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ interesa ^ Universidad de Vigo</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //beneficios -->
+			<category>
+				<pattern>^ beneficios ^ Universidad de Vigo</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ beneficio ^ Universidad de Vigo</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //positivo -->
+			<category>
+				<pattern>^ positivo ^ Universidad de Vigo</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ positivas ^ Universidad de Vigo</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+	<!-- //^ Universidad --> 
+		<!-- //Merece la pena --> 
+			<category>
+				<pattern>^ Merece la pena ^ Universidad</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //interes -->
+			<category>
+				<pattern>^ interes ^ Universidad</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ interesa ^ Universidad</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //beneficios -->
+			<category>
+				<pattern>^ beneficios ^ Universidad</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ beneficio ^ Universidad</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //positivo -->
+			<category>
+				<pattern>^ positivo ^ Universidad</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ positivas ^ Universidad</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+	<!-- //^ centro --> 
+		<!-- //Merece la pena --> 
+			<category>
+				<pattern>^ Merece la pena ^ centro</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //interes -->
+			<category>
+				<pattern>^ interes ^ centro</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ interesa ^ centro</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //beneficios -->
+			<category>
+				<pattern>^ beneficios ^ centro</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ beneficio ^ centro</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //positivo -->
+			<category>
+				<pattern>^ positivo ^ centro</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ positivas ^ centro</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+	<!-- //ESEI --> 
+		<!-- //Merece la pena --> 
+			<category>
+				<pattern>^ Merece la pena ^ ESEI ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //interes -->
+			<category>
+				<pattern>^ interes ^ ESEI ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ interesa ^ ESEI ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //beneficios -->
+			<category>
+				<pattern>^ beneficios ^ ESEI ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ beneficio ^ ESEI ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+		<!-- //positivo -->
+			<category>
+				<pattern>^ positivo ^ ESEI ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ positivas ^ ESEI ^</pattern>
+				<template><srai>P4xOK</srai></template>
+			</category>
+	<!--//Ingenieria informatica [SIN ^]  (Salamanca, valencia...) --> 
+		<!--No tengo conocimiento sobre esa universidad --> 
+	<!-- //Respuestas --> 
+		<category>
+			<pattern>P4xOK</pattern>
+			<template>x</template>
+		</category>
+
+
+
+
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+</aiml>
+

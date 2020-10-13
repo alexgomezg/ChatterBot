@@ -1,0 +1,2293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+		<!--	Grupo 34	-->
+<!--	Alejandro Gómez González	-->
+<!--	Iago Muñoz Varela 			-->
+<!--	Jesús Pascual Blanco 		-->
+		<!--				-->
+
+
+
+
+	
+<!-- 15)¿Qué son los Trabajos Fin de Grado o de Máster? -->
+	<!-- Ingenieria informatica Ourense -->
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ fin de master ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ fin de master ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ fin de grado ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ fin de grado ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ TFG ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ TFG ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ TFM ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ TFM ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Contar -->
+			<category>
+				<pattern>^ Cuentame ^ fin de master ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ fin de master ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ fin de grado ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ fin de grado ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ TFG ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ TFG ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ TFM ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ TFM ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Decir -->
+			<category>
+				<pattern>^ Dime ^ fin de master ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ fin de grado ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ TFG ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ TFM ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+		<!-- //Comentar -->
+			<category>
+				<pattern>^ Comentame ^ fin de master ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ fin de master ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ fin de grado ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ fin de grado ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ TFG ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ TFG ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ TFM ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ TFM ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //opinar -->
+			<category>
+				<pattern>^ Opiname ^ fin de master ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ fin de master ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ fin de grado ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ fin de grado ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ TFG ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ TFG ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ TFM ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ TFM ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ fin de master ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ fin de master ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ fin de grado ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ fin de grado ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ TFG ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ TFG ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ TFM ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ TFM ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ fin de master ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ fin de master ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ fin de grado ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ fin de grado ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ TFG ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ TFG ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ TFM ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ TFM ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Que | Como -->
+			<category>
+				<pattern>^ Que ^ fin de master ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ fin de master ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ fin de grado ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ fin de grado ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ TFG ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ TFG ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ TFM ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ TFM ^ Ingenieria informatica Ourense ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+	<!-- Ingenieria informatica UVIGO -->
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ fin de master ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ fin de master ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ fin de grado ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ fin de grado ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ TFG ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ TFG ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ TFM ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ TFM ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Contar -->
+			<category>
+				<pattern>^ Cuentame ^ fin de master ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ fin de master ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ fin de grado ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ fin de grado ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ TFG ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ TFG ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ TFM ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ TFM ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Decir -->
+			<category>
+				<pattern>^ Dime ^ fin de master ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ fin de grado ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ TFG ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ TFM ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+		<!-- //Comentar -->
+			<category>
+				<pattern>^ Comentame ^ fin de master ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ fin de master ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ fin de grado ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ fin de grado ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ TFG ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ TFG ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ TFM ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ TFM ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //opinar -->
+			<category>
+				<pattern>^ Opiname ^ fin de master ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ fin de master ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ fin de grado ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ fin de grado ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ TFG ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ TFG ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ TFM ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ TFM ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ fin de master ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ fin de master ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ fin de grado ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ fin de grado ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ TFG ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ TFG ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ TFM ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ TFM ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ fin de master ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ fin de master ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ fin de grado ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ fin de grado ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ TFG ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ TFG ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ TFM ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ TFM ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Que | Como -->
+			<category>
+				<pattern>^ Que ^ fin de master ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ fin de master ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ fin de grado ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ fin de grado ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ TFG ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ TFG ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ TFM ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ TFM ^ Ingenieria informatica UVIGO ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+	<!-- Ingenieria informatica Universidad de Vigo -->
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ fin de master ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ fin de master ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ fin de grado ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ fin de grado ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ TFG ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ TFG ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ TFM ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ TFM ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Contar -->
+			<category>
+				<pattern>^ Cuentame ^ fin de master ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ fin de master ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ fin de grado ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ fin de grado ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ TFG ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ TFG ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ TFM ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ TFM ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Decir -->
+			<category>
+				<pattern>^ Dime ^ fin de master ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ fin de grado ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ TFG ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ TFM ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+		<!-- //Comentar -->
+			<category>
+				<pattern>^ Comentame ^ fin de master ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ fin de master ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ fin de grado ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ fin de grado ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ TFG ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ TFG ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ TFM ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ TFM ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //opinar -->
+			<category>
+				<pattern>^ Opiname ^ fin de master ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ fin de master ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ fin de grado ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ fin de grado ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ TFG ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ TFG ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ TFM ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ TFM ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ fin de master ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ fin de master ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ fin de grado ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ fin de grado ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ TFG ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ TFG ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ TFM ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ TFM ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ fin de master ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ fin de master ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ fin de grado ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ fin de grado ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ TFG ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ TFG ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ TFM ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ TFM ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Que | Como -->
+			<category>
+				<pattern>^ Que ^ fin de master ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ fin de master ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ fin de grado ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ fin de grado ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ TFG ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ TFG ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ TFM ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ TFM ^ Ingenieria informatica Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+	<!-- Escola Superior de Enxeñeria Informatica -->
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ fin de master ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ fin de master ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ fin de grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ fin de grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ TFG ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ TFG ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ TFM ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ TFM ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Contar -->
+			<category>
+				<pattern>^ Cuentame ^ fin de master ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ fin de master ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ fin de grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ fin de grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ TFG ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ TFG ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ TFM ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ TFM ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Decir -->
+			<category>
+				<pattern>^ Dime ^ fin de master ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ fin de grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ TFG ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ TFM ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+		<!-- //Comentar -->
+			<category>
+				<pattern>^ Comentame ^ fin de master ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ fin de master ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ fin de grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ fin de grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ TFG ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ TFG ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ TFM ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ TFM ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //opinar -->
+			<category>
+				<pattern>^ Opiname ^ fin de master ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ fin de master ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ fin de grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ fin de grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ TFG ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ TFG ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ TFM ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ TFM ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ fin de master ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ fin de master ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ fin de grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ fin de grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ TFG ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ TFG ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ TFM ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ TFM ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ fin de master ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ fin de master ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ fin de grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ fin de grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ TFG ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ TFG ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ TFM ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ TFM ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Que | Como -->
+			<category>
+				<pattern>^ Que ^ fin de master ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ fin de master ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ fin de grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ fin de grado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ TFG ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ TFG ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ TFM ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ TFM ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+	<!-- Universidad de Vigo -->
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ fin de master ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ fin de master ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ fin de grado ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ fin de grado ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ TFG ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ TFG ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ TFM ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ TFM ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Contar -->
+			<category>
+				<pattern>^ Cuentame ^ fin de master ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ fin de master ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ fin de grado ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ fin de grado ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ TFG ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ TFG ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ TFM ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ TFM ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Decir -->
+			<category>
+				<pattern>^ Dime ^ fin de master ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ fin de grado ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ TFG ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ TFM ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+		<!-- //Comentar -->
+			<category>
+				<pattern>^ Comentame ^ fin de master ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ fin de master ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ fin de grado ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ fin de grado ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ TFG ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ TFG ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ TFM ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ TFM ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //opinar -->
+			<category>
+				<pattern>^ Opiname ^ fin de master ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ fin de master ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ fin de grado ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ fin de grado ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ TFG ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ TFG ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ TFM ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ TFM ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ fin de master ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ fin de master ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ fin de grado ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ fin de grado ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ TFG ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ TFG ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ TFM ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ TFM ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ fin de master ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ fin de master ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ fin de grado ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ fin de grado ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ TFG ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ TFG ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ TFM ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ TFM ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Que | Como -->
+			<category>
+				<pattern>^ Que ^ fin de master ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ fin de master ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ fin de grado ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ fin de grado ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ TFG ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ TFG ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ TFM ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ TFM ^ Universidad de Vigo ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+	<!-- Ingenieria informatica -->
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ fin de master ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ fin de master ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ fin de grado ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ fin de grado ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ TFG ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ TFG ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ TFM ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ TFM ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Contar -->
+			<category>
+				<pattern>^ Cuentame ^ fin de master ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ fin de master ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ fin de grado ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ fin de grado ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ TFG ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ TFG ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ TFM ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ TFM ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Decir -->
+			<category>
+				<pattern>^ Dime ^ fin de master ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ fin de grado ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ TFG ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ TFM ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+		<!-- //Comentar -->
+			<category>
+				<pattern>^ Comentame ^ fin de master ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ fin de master ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ fin de grado ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ fin de grado ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ TFG ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ TFG ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ TFM ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ TFM ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //opinar -->
+			<category>
+				<pattern>^ Opiname ^ fin de master ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ fin de master ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ fin de grado ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ fin de grado ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ TFG ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ TFG ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ TFM ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ TFM ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ fin de master ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ fin de master ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ fin de grado ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ fin de grado ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ TFG ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ TFG ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ TFM ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ TFM ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ fin de master ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ fin de master ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ fin de grado ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ fin de grado ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ TFG ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ TFG ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ TFM ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ TFM ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Que | Como -->
+			<category>
+				<pattern>^ Que ^ fin de master ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ fin de master ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ fin de grado ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ fin de grado ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ TFG ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ TFG ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ TFM ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ TFM ^ Ingenieria informatica ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+	<!-- Centro -->
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ fin de master ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ fin de master ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ fin de grado ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ fin de grado ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ TFG ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ TFG ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ TFM ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ TFM ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Contar -->
+			<category>
+				<pattern>^ Cuentame ^ fin de master ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ fin de master ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ fin de grado ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ fin de grado ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ TFG ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ TFG ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ TFM ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ TFM ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Decir -->
+			<category>
+				<pattern>^ Dime ^ fin de master ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ fin de grado ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ TFG ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ TFM ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+		<!-- //Comentar -->
+			<category>
+				<pattern>^ Comentame ^ fin de master ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ fin de master ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ fin de grado ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ fin de grado ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ TFG ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ TFG ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ TFM ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ TFM ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //opinar -->
+			<category>
+				<pattern>^ Opiname ^ fin de master ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ fin de master ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ fin de grado ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ fin de grado ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ TFG ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ TFG ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ TFM ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ TFM ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ fin de master ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ fin de master ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ fin de grado ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ fin de grado ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ TFG ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ TFG ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ TFM ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ TFM ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ fin de master ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ fin de master ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ fin de grado ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ fin de grado ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ TFG ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ TFG ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ TFM ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ TFM ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Que | Como -->
+			<category>
+				<pattern>^ Que ^ fin de master ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ fin de master ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ fin de grado ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ fin de grado ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ TFG ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ TFG ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ TFM ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ TFM ^ Centro ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+	<!-- //ESEI -->
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ fin de master ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ fin de master ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ fin de grado ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ fin de grado ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ TFG ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ TFG ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ TFM ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ TFM ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Contar -->
+			<category>
+				<pattern>^ Cuentame ^ fin de master ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ fin de master ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ fin de grado ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ fin de grado ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ TFG ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ TFG ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ TFM ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ TFM ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Decir -->
+			<category>
+				<pattern>^ Dime ^ fin de master ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ fin de grado ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ TFG ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ TFM ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+		<!-- //Comentar -->
+			<category>
+				<pattern>^ Comentame ^ fin de master ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ fin de master ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ fin de grado ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ fin de grado ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ TFG ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ TFG ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ TFM ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ TFM ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //opinar -->
+			<category>
+				<pattern>^ Opiname ^ fin de master ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ fin de master ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ fin de grado ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ fin de grado ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ TFG ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ TFG ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ TFM ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ TFM ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ fin de master ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ fin de master ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ fin de grado ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ fin de grado ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ TFG ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ TFG ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ TFM ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ TFM ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ fin de master ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ fin de master ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ fin de grado ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ fin de grado ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ TFG ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ TFG ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ TFM ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ TFM ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Que | Como -->
+			<category>
+				<pattern>^ Que ^ fin de master ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ fin de master ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ fin de grado ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ fin de grado ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ TFG ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ TFG ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ TFM ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ TFM ^ ESEI ^</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+	<!-- //* fin de master ^ //* fin de grado //TFG //TFM -->
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ fin de master</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ fin de master</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ fin de grado</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ fin de grado</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ TFG</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ TFG</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Hablame ^ TFM</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ TFM</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Contar -->
+			<category>
+				<pattern>^ Cuentame ^ fin de master</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ fin de master</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ fin de grado</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ fin de grado</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ TFG</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ TFG</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuentame ^ TFM</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ TFM</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Decir -->
+			<category>
+				<pattern>^ Dime ^ fin de master</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ fin de grado</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ TFG</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Dime ^ TFM</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+		<!-- //Comentar -->
+			<category>
+				<pattern>^ Comentame ^ fin de master</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ fin de master</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ fin de grado</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ fin de grado</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ TFG</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ TFG</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comentame ^ TFM</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ TFM</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //opinar -->
+			<category>
+				<pattern>^ Opiname ^ fin de master</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ fin de master</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ fin de grado</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ fin de grado</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ TFG</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ TFG</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opiname ^ TFM</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ TFM</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ fin de master</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ fin de master</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ fin de grado</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ fin de grado</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ TFG</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ TFG</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informame ^ TFM</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ TFM</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ fin de master</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ fin de master</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ fin de grado</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ fin de grado</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ TFG</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ TFG</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describeme ^ TFM</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ TFM</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+		<!-- //Que | Como -->
+			<category>
+				<pattern>^ Que ^ fin de master</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ fin de master</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ fin de grado</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ fin de grado</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ TFG</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ TFG</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Que ^ TFM</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ TFM</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+	<!--original-->
+	<category>
+				<pattern>^ Trabajos Fin de Grado ^ Master</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+	<category>
+				<pattern>^ Trabajos Fin de Grado ^ de Master</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+	<category>
+				<pattern>^ Trabajos Fin de Grado o de Master</pattern>
+				<template><srai>P15xOK</srai></template>
+			</category>
+	<!-- //Respuesta --> 
+	<category>
+		<pattern>P15xOK</pattern>
+		<template>x</template>
+	</category>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+</aiml>

@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+		<!--	Grupo 34	-->
+<!--	Alejandro Gómez González	-->
+<!--	Iago Muñoz Varela 			-->
+<!--	Jesús Pascual Blanco 		-->
+		<!--				-->
+
+
+
+
+
+
+
+<!-- 9)¿Cuál es el protocolo de acogida de alumnos con necesidades educativas especiales?-->
+	<!-- //Ingenieria informatica Ourense -->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ acogida ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ acogida ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ acogida ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ acogida ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ acogida ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ acogida ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ acogida ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ acogida ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ acogida ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ acogida ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica UVIGO -->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ acogida ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ acogida ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ acogida ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ acogida ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ acogida ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ acogida ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ acogida ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ acogida ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ acogida ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ acogida ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica Universidad de Vigo -->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ acogida ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ acogida ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ acogida ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ acogida ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ acogida ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ acogida ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ acogida ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ acogida ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ acogida ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ acogida ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+	<!-- //Escola Superior de Enxeñeria Informatica -->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ acogida ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ acogida ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ acogida ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ acogida ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ acogida ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ acogida ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ acogida ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ acogida ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ acogida ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ acogida ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica -->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ acogida ^ Ingenieria informatica</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ acogida ^ Ingenieria informatica</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ acogida ^ Ingenieria informatica</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ acogida ^ Ingenieria informatica</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ acogida ^ Ingenieria informatica</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ acogida ^ Ingenieria informatica</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ acogida ^ Ingenieria informatica</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ acogida ^ Ingenieria informatica</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ acogida ^ Ingenieria informatica</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ acogida ^ Ingenieria informatica</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+	<!-- //Universidad de Vigo -->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ acogida ^ Universidad de Vigo</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ acogida ^ Universidad de Vigo</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ acogida ^ Universidad de Vigo</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ acogida ^ Universidad de Vigo</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ acogida ^ Universidad de Vigo</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ acogida ^ Universidad de Vigo</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ acogida ^ Universidad de Vigo</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ acogida ^ Universidad de Vigo</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ acogida ^ Universidad de Vigo</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ acogida ^ Universidad de Vigo</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+	<!-- //universidad -->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ acogida ^ universidad</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ acogida ^ universidad</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ acogida ^ universidad</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ acogida ^ universidad</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ acogida ^ universidad</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ acogida ^ universidad</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ acogida ^ universidad</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ acogida ^ universidad</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ acogida ^ universidad</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ acogida ^ universidad</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+	<!-- //centro -->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ acogida ^ centro</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ acogida ^ centro</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ acogida ^ centro</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ acogida ^ centro</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ acogida ^ centro</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ acogida ^ centro</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ acogida ^ centro</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ acogida ^ centro</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ acogida ^ centro</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ acogida ^ centro</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+	<!-- //ESEI -->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ acogida ^ ESEI ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ acogida ^ ESEI ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ acogida ^ ESEI ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ acogida ^ ESEI ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ acogida ^ ESEI ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ acogida ^ ESEI ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ acogida ^ ESEI ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ acogida ^ ESEI ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ acogida ^ ESEI ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ acogida ^ ESEI ^</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+	<!-- //acogida y especiales-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ acogida ^ especiales</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ acogida ^ especiales</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ acogida ^ especiales</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ acogida ^ especiales</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ acogida ^ especiales</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ acogida ^ especiales</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ acogida ^ especiales</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ acogida ^ especiales</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ acogida ^ especiales</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ acogida ^ especiales</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+	<!-- //solo especiales-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ especiales</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ especiales</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ especiales</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ especiales</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ especiales</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ especiales</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ especiales</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ especiales</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ especiales</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ especiales</pattern>
+				<template><srai>P9xOK</srai></template>
+			</category>
+		<!-- //Respuesta --> 
+		<category>
+			<pattern>P9xOK</pattern>
+			<template>x</template>
+		</category>
+
+
+
+
+
+
+
+
+
+
+</aiml>
+

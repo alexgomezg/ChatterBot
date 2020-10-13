@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+		<!--	Grupo 34	-->
+<!--	Alejandro Gómez González	-->
+<!--	Iago Muñoz Varela 			-->
+<!--	Jesús Pascual Blanco 		-->
+		<!--				-->
+
+
+
+
+
+<!-- 10)¿Existe una delegación de alumnos en la ESEI?-->
+	<!-- //Ingenieria informatica Ourense-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+	<!-- //delegacion alumnado-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica UVIGO-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ delegacion ^ alumnos ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ delegacion ^ alumnos ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ delegacion ^ alumnos ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ delegacion ^ alumnos ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ delegacion ^ alumnos ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ delegacion ^ alumnos ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ delegacion ^ alumnos ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ delegacion ^ alumnos ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ delegacion ^ alumnos ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ delegacion ^ alumnos ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ delegacion ^ alumnos ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ delegacion ^ alumnos ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ delegacion ^ alumnos ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+	<!-- //delegacion alumnado-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ delegacion ^ alumnado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ delegacion ^ alumnado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ delegacion ^ alumnos ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ delegacion ^ alumnado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ delegacion ^ alumnado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ delegacion ^ alumnado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ delegacion ^ alumnado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ delegacion ^ alumnado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ delegacion ^ alumnado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ delegacion ^ alumnado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ delegacion ^ alumnado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ delegacion ^ alumnado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ delegacion ^ alumnado ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica Universidad de Vigo-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+	<!-- //delegacion alumnado-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ delegacion ^ alumnos ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ delegacion ^ alumnado ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+	<!-- //Escola Superior de Enxeñeria Informatica-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ delegacion ^ alumnos ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ delegacion ^ alumnos ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ delegacion ^ alumnos ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ delegacion ^ alumnos ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ delegacion ^ alumnos ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ delegacion ^ alumnos ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ delegacion ^ alumnos ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ delegacion ^ alumnos ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ delegacion ^ alumnos ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ delegacion ^ alumnos ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ delegacion ^ alumnos ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ delegacion ^ alumnos ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ delegacion ^ alumnos ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+	<!-- //delegacion alumnado-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ delegacion ^ alumnado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ delegacion ^ alumnado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ delegacion ^ alumnos ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ delegacion ^ alumnado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ delegacion ^ alumnado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ delegacion ^ alumnado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ delegacion ^ alumnado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ delegacion ^ alumnado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ delegacion ^ alumnado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ delegacion ^ alumnado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ delegacion ^ alumnado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ delegacion ^ alumnado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ delegacion ^ alumnado ^ Escola Superior de Enxeñeria Informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ delegacion ^ alumnos ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ delegacion ^ alumnos ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ delegacion ^ alumnos ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ delegacion ^ alumnos ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ delegacion ^ alumnos ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ delegacion ^ alumnos ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ delegacion ^ alumnos ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ delegacion ^ alumnos ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ delegacion ^ alumnos ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ delegacion ^ alumnos ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ delegacion ^ alumnos ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ delegacion ^ alumnos ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ delegacion ^ alumnos ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+	<!-- //delegacion alumnado-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ delegacion ^ alumnado ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ delegacion ^ alumnado ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ delegacion ^ alumnos ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ delegacion ^ alumnado ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ delegacion ^ alumnado ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ delegacion ^ alumnado ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ delegacion ^ alumnado ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ delegacion ^ alumnado ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ delegacion ^ alumnado ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ delegacion ^ alumnado ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ delegacion ^ alumnado ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ delegacion ^ alumnado ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ delegacion ^ alumnado ^ Ingenieria informatica</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+	<!-- //centro-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ delegacion ^ alumnos ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ delegacion ^ alumnos ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ delegacion ^ alumnos ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ delegacion ^ alumnos ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ delegacion ^ alumnos ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ delegacion ^ alumnos ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ delegacion ^ alumnos ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ delegacion ^ alumnos ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ delegacion ^ alumnos ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ delegacion ^ alumnos ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ delegacion ^ alumnos ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ delegacion ^ alumnos ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ delegacion ^ alumnos ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+	<!-- //delegacion alumnado-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ delegacion ^ alumnado ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ delegacion ^ alumnado ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ delegacion ^ alumnos ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ delegacion ^ alumnado ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ delegacion ^ alumnado ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ delegacion ^ alumnado ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ delegacion ^ alumnado ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ delegacion ^ alumnado ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ delegacion ^ alumnado ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ delegacion ^ alumnado ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ delegacion ^ alumnado ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ delegacion ^ alumnado ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ delegacion ^ alumnado ^ centro</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+	<!-- //ESEI-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ delegacion ^ alumnos ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ delegacion ^ alumnos ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ delegacion ^ alumnos ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ delegacion ^ alumnos ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ delegacion ^ alumnos ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ delegacion ^ alumnos ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ delegacion ^ alumnos ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ delegacion ^ alumnos ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ delegacion ^ alumnos ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ delegacion ^ alumnos ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ delegacion ^ alumnos ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ delegacion ^ alumnos ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ delegacion ^ alumnos ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+	<!-- //delegacion alumnado-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ delegacion ^ alumnado ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ delegacion ^ alumnado ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ delegacion ^ alumnos ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ delegacion ^ alumnado ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ delegacion ^ alumnado ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ delegacion ^ alumnado ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ delegacion ^ alumnado ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ delegacion ^ alumnado ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ delegacion ^ alumnado ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ delegacion ^ alumnado ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ delegacion ^ alumnado ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ delegacion ^ alumnado ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ delegacion ^ alumnado ^ ESEI ^</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+	<!-- //delegacion alumnos-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ delegacion ^ alumnos</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ delegacion ^ alumnos</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ delegacion ^ alumnos</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ delegacion ^ alumnos</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ delegacion ^ alumnos</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ delegacion ^ alumnos</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ delegacion ^ alumnos</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ delegacion ^ alumnos</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ delegacion ^ alumnos</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ delegacion ^ alumnos</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ delegacion ^ alumnos</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ delegacion ^ alumnos</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ delegacion ^ alumnos</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+	<!-- //delegacion alumnado-->
+		<!-- //Cual -->
+			<category>
+				<pattern>^ cual ^ delegacion ^ alumnado</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!--//Que-->
+			<category>
+				<pattern>^ que ^ delegacion ^ alumnado</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Como -->
+			<category>
+				<pattern>^ como ^ delegacion ^ alumnos</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Consiste -->
+			<category>
+				<pattern>^ consiste ^ delegacion ^ alumnado</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ delegacion ^ alumnado</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ delegacion ^ alumnado</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ delegacion ^ alumnado</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ delegacion ^ alumnado</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Cuenta -->
+			<category>
+				<pattern>^ Cuentame ^ delegacion ^ alumnado</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ delegacion ^ alumnado</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Existe -->
+			<category>
+				<pattern>^ Existe ^ delegacion ^ alumnado</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Hay -->
+			<category>
+				<pattern>^ Hay ^ delegacion ^ alumnado</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+			<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ delegacion ^ alumnado</pattern>
+				<template><srai>P10xOK</srai></template>
+			</category>
+		<!-- //Respuesta --> 
+		<category>
+			<pattern>P10xOK</pattern>
+			<template>x</template>
+		</category>
+
+
+
+
+
+
+
+
+
+
+
+</aiml>

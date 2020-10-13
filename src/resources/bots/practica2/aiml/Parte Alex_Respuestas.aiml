@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+		<!--	Grupo 34	-->
+<!--	Alejandro Gómez González	-->
+<!--	Iago Muñoz Varela 			-->
+<!--	Jesús Pascual Blanco 		-->
+		<!--				-->
+
+
+
+<!-- 9)¿Cuál es el protocolo de acogida de alumnos con necesidades educativas especiales?-->
+		<!-- //Respuesta --> 
+		<category>
+			<pattern>P9xOK</pattern>
+			<template>
+				<random>
+					<li>El protocolo a llevar a cabo en casos de personas con necesidades específicas se llama PIUNE. Se centra en facilitar a las personas con necesidades especiales el acceso y mayor disfrute de los estudios superiores y la vida universitaria.</li>
+					<li>PIUNE trabaja para garantizar que cualquier persona, independientemente de su discapacidad, pueda acceder a los estudios superiores con igualdad de oportunidades y disfrutar de una vida académica y social plena y autónoma en la universidad como el resto de sus compañeros.</li>
+					<li>Existe un protocolo para tratar este asunto: PIUNE (Programa de Integración de Universitarios con Necesidades Especiais). Éste se centra en facilitar a las personas con necesidades especiales el acceso y mayor disfrute de los estudios superiores y la vida universitaria.</li>
+					<li>PIUNE (Programa de Integración de Universitarios con Necesidades Especiais) trabaja para garantizar que cualquier persona, independientemente de su discapacidad, pueda acceder a los estudios superiores con igualdad de oportunidades y disfrutar de una vida académica y social plena y autónoma en la universidad como el resto de sus compañeros.</li>
+				</random>
+			</template>
+		</category>
+
+
+
+
+<!-- 10)¿Existe una delegación de alumnos en la ESEI?-->
+		<!-- //Respuesta --> 
+		<category>
+			<pattern>P10xOK</pattern>
+			<template>
+				<random>
+					<li>Existe, efectivamente una delegación de alumnos en la ESEI, la ESEIDA.</li>
+					<li>La ESEIDA es la delegación de alumnos de la ESEI. Está formada por un grupo de estudiantes que se eligen democráticamente cada dos años.</li>
+					<li>La ESEIDA (ESEI Delegación de Alumnos) es un grupo de estudiantes que se eligen por votación cada dos años. Además de representarlo, ayudan al estudiante con el problema que se le plantee.</li>
+					<li>Existe una delegación de alumnos, la ESEIDA. Son un grupo de estudiantes que, a ojos del profesorado, representan a los estudiantes y pueden presentar proposiciones al servicio de administración de la universidad, de ser necesario.</li>
+					
+					<li>Existe, efectivamente una delegación de alumnos en la ESEI, la ESEIDA.
+					Contacto: eseida@esei.uvigo.es</li>
+					<li>La ESEIDA es la delegación de alumnos de la ESEI. Está formada por un grupo de estudiantes que se eligen democráticamente cada dos años.
+					Contacto: eseida@esei.uvigo.es</li>
+					<li>La ESEIDA (ESEI Delegación de Alumnos) es un grupo de estudiantes que se eligen por votación cada dos años. Además de representarlo, ayudan al estudiante con el problema que se le plantee.
+					Contacto: eseida@esei.uvigo.es</li>
+					<li>Existe una delegación de alumnos, la ESEIDA. Son un grupo de estudiantes que, a ojos del profesorado, representan a los estudiantes y pueden presentar proposiciones al servicio de administración de la universidad, de ser necesario.
+					Contacto: eseida@esei.uvigo.es</li>
+				</random>
+			</template>
+		</category>
+
+
+
+
+<!-- 11)¿Qué es el suplemento europeo al título?-->
+		<!-- //Respuesta --> 
+		<category>
+			<pattern>P11xOK</pattern>
+			<template>El suplemento europeo al título (SET) es el documento que acompaña al título universitario, que recoge información sobre los estudios cursados, los resultados obtenidos, las capacidades profesionales adquiridas y el nivel de su titulación en el sistema nacional de educación superior.</template>
+		</category>
+
+
+
+
+<!-- 12)¿Qué tipo de prácticas puedo realizar como alumno de la ESEI?-->
+		<!-- //Respuesta --> 
+		<category>
+			<pattern>P12xOK</pattern>
+			<template>La ESEI ofrece periódicamente prácticas curriculares (durante el curso) y extracurriculares.</template>
+		</category>
+
+
+
+<!-- 13)¿Dónde puedo consultar la oferta de prácticas en empresas?-->
+		<!-- //Respuesta --> 
+		<category>
+			<pattern>P13xOK</pattern>
+			<template>Para consultar las ofertas de prácticas puedes ir a https://esei.uvigo.es/docencia/ofertas-de-practicas/</template>
+		</category>
+
+
+</aiml>
+

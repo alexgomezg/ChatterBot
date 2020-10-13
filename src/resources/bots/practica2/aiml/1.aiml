@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+		<!--	Grupo 34	-->
+<!--	Alejandro Gómez González	-->
+<!--	Iago Muñoz Varela 			-->
+<!--	Jesús Pascual Blanco 		-->
+		<!--				-->
+
+
+
+<!-- 1)Háblame un poco sobre la Universidad de Vigo  (UVIGO  | Universidad ) -->
+	<!-- //Universidad de Vigo -->
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ Universidad de Vigo ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ Universidad de Vigo ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Contar -->
+			<category>
+				<pattern>^ Cuentame ^ Universidad de Vigo ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ Universidad de Vigo ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Decir -->
+			<category>
+				<pattern>^ Dime ^ Universidad de Vigo ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Comentar -->
+			<category>
+				<pattern>^ Comentame ^ Universidad de Vigo ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ Universidad de Vigo ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //opinar -->
+			<category>
+				<pattern>^ Opiname ^ Universidad de Vigo ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ Universidad de Vigo ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ Universidad de Vigo ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ Universidad de Vigo ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ Universidad de Vigo ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ Universidad de Vigo ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Que | Como -->
+			<category>
+				<pattern>^ Que ^ Universidad de Vigo ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ Universidad de Vigo ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+	<!-- //UVIGO -->
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ UVIGO ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ UVIGO ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Contar -->
+			<category>
+				<pattern>^ Cuentame ^ UVIGO ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ UVIGO ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Decir -->
+			<category>
+				<pattern>^ Dime ^ UVIGO ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Comentar -->
+			<category>
+				<pattern>^ Comentame ^ UVIGO ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ UVIGO ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //opinar -->
+			<category>
+				<pattern>^ Opiname ^ UVIGO ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ UVIGO ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ UVIGO ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ UVIGO ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ UVIGO ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ UVIGO ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Que | Como -->
+			<category>
+				<pattern>^ Que ^ UVIGO ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ UVIGO ^</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+	<!-- //Universidad Ourense -->
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ Universidad ^ Ourense</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ Universidad ^ Ourense</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Contar -->
+			<category>
+				<pattern>^ Cuentame ^ Universidad ^ Ourense</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ Universidad ^ Ourense</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Decir -->
+			<category>
+				<pattern>^ Dime ^ Universidad ^ Ourense</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Comentar -->
+			<category>
+				<pattern>^ Comentame ^ Universidad ^ Ourense</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ Universidad ^ Ourense</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //opinar -->
+			<category>
+				<pattern>^ Opiname ^ Universidad ^ Ourense</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ Universidad ^ Ourense</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ Universidad ^ Ourense</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ Universidad ^ Ourense</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ Universidad ^ Ourense</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ Universidad ^ Ourense</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Que | Como -->
+			<category>
+				<pattern>^ Que ^ Universidad ^ Ourense</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ Universidad ^ Ourense</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+	<!-- //Universidad  -->
+		<!-- //Hablar -->
+			<category>
+				<pattern>^ Hablame ^ Universidad</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Habla ^ Universidad</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Contar -->
+			<category>
+				<pattern>^ Cuentame ^ Universidad</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Cuenta ^ Universidad</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Decir -->
+			<category>
+				<pattern>^ Dime ^ Universidad</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Comentar -->
+			<category>
+				<pattern>^ Comentame ^ Universidad</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Comenta ^ Universidad</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //opinar -->
+			<category>
+				<pattern>^ Opiname ^ Universidad</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Opina ^ Universidad</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Informar -->
+			<category>
+				<pattern>^ Informame ^ Universidad</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Informa ^ Universidad</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Describir -->
+			<category>
+				<pattern>^ Describeme ^ Universidad</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Describe ^ Universidad</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+		<!-- //Que | Como -->
+			<category>
+				<pattern>^ Que ^ Universidad</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Como ^ Universidad</pattern>
+				<template><srai>P1xOK</srai></template>
+			</category>
+	<!-- //Universidad [SIN ^]  (Salamanca, valencia...) --> 
+		<!-- No tengo conocimiento sobre esa universidad --> 
+	<!-- //Respuestas --> 
+		<category>
+			<pattern>P1xOK</pattern>
+			<template>x</template>
+		</category>
+</aiml>
+

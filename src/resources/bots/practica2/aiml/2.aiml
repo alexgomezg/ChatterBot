@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+		<!--	Grupo 34	-->
+<!--	Alejandro Gómez González	-->
+<!--	Iago Muñoz Varela 			-->
+<!--	Jesús Pascual Blanco 		-->
+		<!--				-->
+
+
+
+
+		
+		
+
+
+<!-- 2)¿Dónde se encuentra la ESEI? (ingenieria informatica) -->
+	<!-- //Ingenieria informatica Ourense--> 
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica UVIGO--> 
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica Universidad de Vigo--> 
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+	<!-- //Escola Superior de Enxeñeria Informatica--> 
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica --> 
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ Ingenieria informatica</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ Ingenieria informatica</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ Ingenieria informatica</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+	<!-- //Universidad--> 
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ Universidad</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ Universidad</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ Universidad</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+	<!-- //centro--> 
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ centro</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ centro</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ centro</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+	<!-- //ESEI -->
+		<!-- //Donde -->
+			<category>
+				<pattern>^ Donde ^ ESEI ^</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+		<!-- //ubicacion -->
+			<category>
+				<pattern>^ ubicacion ^ ESEI ^</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ ubica ^ ESEI ^</pattern>
+				<template><srai>P2xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica [SIN ^]  (Salamanca, valencia...) --> 
+		<!-- No tengo conocimiento sobre esa universidad --> 
+	<!-- //Respuestas --> 
+		<category>
+			<pattern>P2xOK</pattern>
+			<template>x</template>
+		</category>
+</aiml>
+

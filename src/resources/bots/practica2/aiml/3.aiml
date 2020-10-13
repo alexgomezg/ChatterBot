@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+		<!--	Grupo 34	-->
+<!--	Alejandro Gómez González	-->
+<!--	Iago Muñoz Varela 			-->
+<!--	Jesús Pascual Blanco 		-->
+		<!--				-->
+
+
+
+
+<!-- 3)¿Qué puedo estudiar en la ESEI? -->
+	<!-- //Ingenieria informatica Ourense -->
+		<!-- //estudiar -->
+			<category>
+				<pattern>^ estudiar ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ estudios ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ estudia ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Cursar -->
+			<category>
+				<pattern>^ cursar ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ cursa ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ curso ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ cursos ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Aprender -->
+			<category>
+				<pattern>^ Aprender ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ aprendo ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Asignaturas -->
+			<category>
+				<pattern>^ asignaturas ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ asignatura ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Materias -->
+			<category>
+				<pattern>^ Materias ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Materia ^ Ingenieria informatica ^ Ourense ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica UVIGO -->
+		<!-- //estudiar -->
+			<category>
+				<pattern>^ estudiar ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ estudios ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ estudia ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Cursar -->
+			<category>
+				<pattern>^ cursar ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ cursa ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ curso ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ cursos ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Aprender -->
+			<category>
+				<pattern>^ Aprender ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ aprendo ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Asignaturas -->
+			<category>
+				<pattern>^ asignaturas ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ asignatura ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Materias -->
+			<category>
+				<pattern>^ Materias ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Materia ^ Ingenieria informatica ^ UVIGO ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica Universidad de Vigo -->
+		<!-- //estudiar -->
+			<category>
+				<pattern>^ estudiar ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ estudios ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ estudia ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Cursar -->
+			<category>
+				<pattern>^ cursar ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ cursa ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ curso ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ cursos ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Aprender -->
+			<category>
+				<pattern>^ Aprender ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ aprendo ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Asignaturas -->
+			<category>
+				<pattern>^ asignaturas ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ asignatura ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Materias -->
+			<category>
+				<pattern>^ Materias ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Materia ^ Ingenieria informatica ^ Universidad de Vigo ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+	<!-- //Escola Superior de Enxeñeria Informatica -->
+		<!-- //estudiar -->
+			<category>
+				<pattern>^ estudiar ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ estudios ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ estudia ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Cursar -->
+			<category>
+				<pattern>^ cursar ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ cursa ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ curso ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ cursos ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Aprender -->
+			<category>
+				<pattern>^ Aprender ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ aprendo ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Asignaturas -->
+			<category>
+				<pattern>^ asignaturas ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ asignatura ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Materias -->
+			<category>
+				<pattern>^ Materias ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Materia ^ Escola Superior de Enxeñeria Informatica ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica -->
+		<!-- //estudiar -->
+			<category>
+				<pattern>^ estudiar ^ Ingenieria informatica</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ estudios ^ Ingenieria informatica</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ estudia ^ Ingenieria informatica</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Cursar -->
+			<category>
+				<pattern>^ cursar ^ Ingenieria informatica</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ cursa ^ Ingenieria informatica</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ curso ^ Ingenieria informatica</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ cursos ^ Ingenieria informatica</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Aprender -->
+			<category>
+				<pattern>^ Aprender ^ Ingenieria informatica</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ aprendo ^ Ingenieria informatica</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Asignaturas -->
+			<category>
+				<pattern>^ asignaturas ^ Ingenieria informatica</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ asignatura ^ Ingenieria informatica</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Materias -->
+			<category>
+				<pattern>^ Materias ^ Ingenieria informatica</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Materia ^ Ingenieria informatica</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+	<!-- //Universidad -->
+		<!-- //estudiar -->
+			<category>
+				<pattern>^ estudiar ^ Universidad</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ estudios ^ Universidad</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ estudia ^ Universidad</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Cursar -->
+			<category>
+				<pattern>^ cursar ^ Universidad</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ cursa ^ Universidad</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ curso ^ Universidad</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ cursos ^ Universidad</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Aprender -->
+			<category>
+				<pattern>^ Aprender ^ Universidad</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ aprendo ^ Universidad</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Asignaturas -->
+			<category>
+				<pattern>^ asignaturas ^ Universidad</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ asignatura ^ Universidad</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Materias -->
+			<category>
+				<pattern>^ Materias ^ Universidad</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Materia ^ Universidad</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+	<!-- //centro -->
+		<!-- //estudiar -->
+			<category>
+				<pattern>^ estudiar ^ centro</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ estudios ^ centro</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ estudia ^ centro</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Cursar -->
+			<category>
+				<pattern>^ cursar ^ centro</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ cursa ^ centro</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ curso ^ centro</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ cursos ^ centro</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Aprender -->
+			<category>
+				<pattern>^ Aprender ^ centro</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ aprendo ^ centro</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Asignaturas -->
+			<category>
+				<pattern>^ asignaturas ^ centro</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ asignatura ^ centro</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Materias -->
+			<category>
+				<pattern>^ Materias ^ centro</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Materia ^ centro</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+	<!-- //ESEI -->
+		<!-- //estudiar -->
+			<category>
+				<pattern>^ estudiar ^ ESEI ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ estudios ^ ESEI ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ estudia ^ ESEI ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Cursar -->
+			<category>
+				<pattern>^ cursar ^ ESEI ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ cursa ^ ESEI ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ curso ^ ESEI ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ cursos ^ ESEI ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Aprender -->
+			<category>
+				<pattern>^ Aprender ^ ESEI ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ aprendo ^ ESEI ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Asignaturas -->
+			<category>
+				<pattern>^ asignaturas ^ ESEI ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ asignatura ^ ESEI ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+		<!-- //Materias -->
+			<category>
+				<pattern>^ Materias ^ ESEI ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+			<category>
+				<pattern>^ Materia ^ ESEI ^</pattern>
+				<template><srai>P3xOK</srai></template>
+			</category>
+	<!-- //Ingenieria informatica [SIN ^]  (Salamanca, valencia...) --> 
+		<!-- No tengo conocimiento sobre esa universidad -->
+	<!-- //Respuestas --> 
+		<category>
+			<pattern>P3xOK</pattern>
+			<template>x</template>
+		</category>
+
+
+
+
+
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+</aiml>
+

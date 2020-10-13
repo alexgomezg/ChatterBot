@@ -1,0 +1,5 @@
+francia:paris
+italia:roma
+belgica:bruselas
+japon:tokio
+malasia:kuala lumpur
